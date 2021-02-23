@@ -1,0 +1,1133 @@
+docId	annotSet	annotType	startOffset	endOffset	annotId	text	other
+S2213158213000582-1398	0	Quantity	15	20	T0-0	50 ms	{"unit": "ms"}
+S2213158213000582-1398	0	MeasuredEntity	21	31	T0-1	group maps	{"HasQuantity": "T0-0"}
+S2213158213000582-1398	1	Quantity	56	62	T1-2	100 ms	{"unit": "ms"}
+S2213158213000582-1398	1	MeasuredEntity	33	52	T1-3	group contrast maps	{"HasQuantity": "T1-2"}
+S2213158213000582-1398	2	Quantity	131	137	T2-4	< 0.05	{"unit": "0.05", "mods": ["IsRange"]}
+S2213158213000582-1398	2	MeasuredProperty	125	130	T2-5	FDR q	{"HasQuantity": "T2-4"}
+S2213158213000582-1398	2	MeasuredEntity	33	52	T2-6	group contrast maps	{"HasProperty": "T2-5"}
+S2213158213000582-1398	3	Quantity	257	263	T3-7	100 ms	{"unit": "ms"}
+S2213158213000582-1398	3	MeasuredEntity	251	253	T3-8	SZ	{"HasQuantity": "T3-7"}
+S2213158213000582-1398	4	Quantity	363	369	T4-9	100 ms	{"unit": "ms"}
+S2213158213000582-1398	4	MeasuredEntity	265	267	T4-10	SZ	{"HasQuantity": "T4-9"}
+S0032063312002437-593	0	Quantity	114	139	T0-0	between 185 km and 215 km	{"unit": "km", "mods": ["IsRange"]}
+S0032063312002437-593	0	MeasuredProperty	105	113	T0-1	altitude	{"HasQuantity": "T0-0"}
+S0032063312002437-593	0	MeasuredEntity	37	56	T0-2	Venus Express (VEX)	{"HasProperty": "T0-1"}
+S0032063312002437-593	1	Quantity	145	157	T1-3	about 10 min	{"unit": "min", "mods": ["IsApproximate"]}
+S0032063312002437-593	1	MeasuredProperty	158	163	T1-4	spent	{"HasQuantity": "T1-3"}
+S0032063312002437-593	1	MeasuredEntity	194	199	T1-5	orbit	{"HasProperty": "T1-4"}
+S0032063312002437-593	2	Quantity	88	97	T2-6	near 86°N	{"unit": "\u00b0N", "mods": ["IsApproximate"]}
+S0032063312002437-593	2	MeasuredEntity	67	72	T2-7	orbit	{"HasProperty": "T2-8"}
+S0032063312002437-593	2	MeasuredProperty	78	87	T2-8	periapsis	{"HasQuantity": "T2-6"}
+S0032063312002437-593	3	Quantity	0	36	T3-9	Between August 2008 and October 2009	{"unit": "2009", "mods": ["IsRange"]}
+S0167610513001001-1566	0	Quantity	796	799	T0-0	≈2%	{"unit": "%", "mods": ["IsApproximate"]}
+S0167610513001001-1566	0	MeasuredEntity	807	822	T0-1	mean wind speed	{"HasQuantity": "T0-0"}
+S0301010413004096-646	0	Quantity	430	433	T0-0	5 K	{"unit": "K"}
+S0301010413004096-646	0	MeasuredEntity	415	426	T0-1	adsorbed H2	{"HasQuantity": "T0-0"}
+S0032063313003218-5381	0	Quantity	418	439	T0-0	a few tens of minutes	{"unit": "minutes"}
+S0032063313003218-5381	0	MeasuredEntity	370	382	T0-1	thermosphere	{"HasQuantity": "T0-0"}
+S0038071711004354-1624	0	Quantity	166	171	T0-0	15 cm	{"unit": "cm"}
+S0038071711004354-1624	0	MeasuredEntity	100	108	T0-1	mesocosm	{"HasProperty": "T0-2"}
+S0038071711004354-1624	0	MeasuredProperty	152	162	T0-2	soil depth	{"HasQuantity": "T0-0"}
+S0038071711004354-1624	1	Quantity	112	118	T1-3	150 cm	{"unit": "cm"}
+S0038071711004354-1624	1	MeasuredEntity	100	108	T1-4	mesocosm	{"HasProperty": "T1-5"}
+S0038071711004354-1624	1	MeasuredProperty	119	123	T1-5	long	{"HasQuantity": "T1-3"}
+S0038071711004354-1624	2	Quantity	125	131	T2-6	100 cm	{"unit": "cm"}
+S0038071711004354-1624	2	MeasuredEntity	100	108	T2-7	mesocosm	{"HasProperty": "T2-8"}
+S0038071711004354-1624	2	MeasuredProperty	132	136	T2-8	wide	{"HasQuantity": "T2-6"}
+S0038071711004354-1624	3	Quantity	322	347	T3-9	approximately four months	{"unit": "months", "mods": ["IsApproximate"]}
+S0038071711004354-1624	3	MeasuredEntity	177	185	T3-10	mesocosm	{"HasQuantity": "T3-9"}
+S0038071711004354-1624	4	Quantity	528	533	T4-11	30 cm	{"unit": "cm"}
+S0038071711004354-1624	4	MeasuredEntity	488	505	T4-12	reference chamber	{"HasProperty": "T4-13"}
+S0038071711004354-1624	4	MeasuredProperty	534	542	T4-13	distance	{"HasQuantity": "T4-11"}
+S0038071711004354-1624	5	Quantity	349	369	T5-14	Approximately 15 min	{"unit": "min", "mods": ["IsApproximate"]}
+S0038071711004354-1624	5	MeasuredEntity	488	505	T5-15	reference chamber	{"HasQuantity": "T5-14"}
+S0022459611006116-987	0	Quantity	119	130	T0-0	1323–1423 K	{"unit": "K", "mods": ["IsRange"]}
+S0022459611006116-987	0	MeasuredEntity	101	115	T0-1	Mg3N2 and MgF2	{"HasQuantity": "T0-0"}
+S0022459611006116-987	1	Quantity	298	301	T1-2	one	{"mods": ["IsCount"]}
+S0022459611006116-987	1	MeasuredEntity	207	213	T1-3	Mg3NF3	{"HasQuantity": "T1-2"}
+S0022459611006116-987	2	Quantity	609	628	T2-4	between 5 and 300 K	{"unit": "K", "mods": ["IsRange"]}
+S0022459611006116-987	2	MeasuredEntity	539	556	T2-5	nitride fluorides	{"HasProperty": "T2-6"}
+S0022459611006116-987	2	MeasuredProperty	562	573	T2-6	temperature	{"HasQuantity": "T2-4"}
+S037842901300244X-1654	0	Quantity	248	251	T0-0	50%	{"unit": "%"}
+S037842901300244X-1654	0	MeasuredEntity	259	265	T0-1	plants	{"HasProperty": "T0-2"}
+S037842901300244X-1654	0	MeasuredProperty	266	285	T0-2	had exerted stigmas	{"HasQuantity": "T0-0"}
+S037842901300244X-1654	1	Quantity	767	786	T1-3	67, 101 and 121 das	{"unit": "s"}
+S037842901300244X-1654	2	Quantity	683	686	T2-4	100	{"mods": ["IsCount"]}
+S037842901300244X-1654	3	Quantity	1111	1112	T3-5	0	{}
+S037842901300244X-1654	3	MeasuredProperty	1118	1120	T3-6	Y0	{"HasQuantity": "T3-5"}
+S0012821X12004384-1610	0	Quantity	90	98	T0-0	2617.4 m	{"unit": "m"}
+S0012821X12004384-1610	0	MeasuredProperty	4	14	T0-1	brief peak	{"HasQuantity": "T0-0"}
+S0012821X12004384-1610	0	MeasuredEntity	18	86	T0-2	Apectodinium, AOM and low salinity dinoflagellate cysts (Deflandrea)	{"HasProperty": "T0-1"}
+S0012821X12004384-1610	1	Quantity	669	688	T1-3	2619.6 and 2614.7 m	{"unit": "m", "mods": ["IsList"]}
+S0012821X12004384-1610	1	MeasuredProperty	644	649	T1-4	peaks	{"HasQuantity": "T1-3"}
+S0012821X12004384-1610	1	MeasuredEntity	653	665	T1-5	Apectodinium	{"HasProperty": "T1-4"}
+S0019103512003995-2579	0	Quantity	673	679	T0-0	6300 K	{"unit": "K"}
+S0019103512003995-2579	0	MeasuredEntity	617	625	T0-1	C2 model	{"HasProperty": "T0-2"}
+S0019103512003995-2579	0	MeasuredProperty	653	669	T0-2	mean temperature	{"HasQuantity": "T0-0"}
+S2213671113000738-787	0	Quantity	60	65	T0-0	40 μm	{"unit": "\u03bcm"}
+S2213671113000738-787	0	MeasuredEntity	25	44	T0-1	fixed frozen brains	{"HasProperty": "T0-2"}
+S2213671113000738-787	0	MeasuredProperty	66	75	T0-2	thickness	{"HasQuantity": "T0-0"}
+S0032063312002437-586	0	Quantity	369	375	T0-0	400 km	{"unit": "km"}
+S0032063312002437-586	0	MeasuredEntity	357	365	T0-1	altitude	{"HasQuantity": "T0-0"}
+S0032063312002437-586	1	Quantity	448	460	T1-2	below 400 km	{"unit": "km", "mods": ["IsRange"]}
+S0032063312002437-586	1	MeasuredEntity	428	447	T1-3	dawn–dusk asymmetry	{"HasQuantity": "T1-2"}
+S0032063312002437-586	2	Quantity	1115	1122	T2-4	∼140 km	{"unit": "km", "mods": ["IsApproximate"]}
+S0032063312002437-586	2	MeasuredProperty	1083	1095	T2-5	peak density	{"HasQuantity": "T2-4"}
+S0032063312002437-586	2	MeasuredEntity	1103	1113	T2-6	ionosphere	{"HasProperty": "T2-5"}
+S0019103513005058-4499	0	Quantity	689	701	T0-0	toward 280 K	{"unit": "K", "mods": ["IsApproximate"]}
+S0019103513005058-4499	0	MeasuredEntity	663	682	T0-1	surface temperature	{"HasProperty": "T0-2"}
+S0019103513005058-4499	0	MeasuredProperty	683	688	T0-2	warms	{"HasQuantity": "T0-0"}
+S0960148113002735-2182	0	Quantity	938	953	T0-0	1050 and 1170 s	{"unit": "s", "mods": ["IsRange"]}
+S0378383913001567-6892	0	Quantity	44	47	T0-0	two	{"mods": ["IsCount"]}
+S0378383913001567-6892	0	MeasuredEntity	48	78	T0-1	symmetrical wall constrictions	{"HasQuantity": "T0-0"}
+S0378383913001567-6892	1	Quantity	15	19	T1-2	40 m	{"unit": "m"}
+S0378383913001567-6892	1	MeasuredEntity	4	11	T1-3	channel	{"HasProperty": "T1-4"}
+S0378383913001567-6892	1	MeasuredProperty	34	38	T1-4	long	{"HasQuantity": "T1-2"}
+S0378383913001567-6892	2	Quantity	29	33	T2-5	90 m	{"unit": "m"}
+S0378383913001567-6892	2	MeasuredEntity	4	11	T2-6	channel	{"HasProperty": "T2-7"}
+S0378383913001567-6892	2	MeasuredProperty	20	24	T2-7	wide	{"HasQuantity": "T2-5"}
+S0378383913001567-6892	3	Quantity	110	112	T3-8	5°	{"unit": "\u00b0"}
+S0378383913001567-6892	3	MeasuredProperty	100	107	T3-9	angle β	{"HasQuantity": "T3-8"}
+S0378383913001567-6892	4	Quantity	151	155	T4-10	10 m	{"unit": "m"}
+S0378383913001567-6892	4	MeasuredEntity	147	148	T4-11	x	{"HasQuantity": "T4-10"}
+S0378383913001567-6892	5	Quantity	469	472	T5-12	2.5	{}
+S0378383913001567-6892	5	MeasuredEntity	422	427	T5-13	water	{"HasQuantity": "T5-12"}
+S0378383913001567-6892	6	Quantity	357	365	T6-14	121 × 53	{"unit": "\u00d7 53"}
+S0378383913001567-6892	6	MeasuredEntity	366	378	T6-15	regular grid	{"HasQuantity": "T6-14"}
+S0378383913001567-6892	7	Quantity	185	188	T7-16	two	{"mods": ["IsCount"]}
+S0378383913001567-6892	7	MeasuredEntity	189	204	T7-17	different grids	{"HasQuantity": "T7-16"}
+S0378383913001567-6892	8	Quantity	438	441	T8-18	1 m	{"unit": "m"}
+S0378383913001567-6892	8	MeasuredEntity	422	427	T8-19	water	{"HasProperty": "T8-20"}
+S0378383913001567-6892	8	MeasuredProperty	428	433	T8-20	depth	{"HasQuantity": "T8-18"}
+S0925443913001385-1319	0	Quantity	89	93	T0-0	five	{"mods": ["IsCount"]}
+S0925443913001385-1319	0	MeasuredEntity	94	110	T0-1	enzyme complexes	{"HasQuantity": "T0-0"}
+S0925443913001385-1319	1	Quantity	162	164	T1-2	13	{"mods": ["IsCount"]}
+S0925443913001385-1319	2	Quantity	122	147	T2-3	approximately 80 proteins	{"unit": "s", "mods": ["IsApproximate"]}
+S0925443913001385-1319	3	Quantity	122	138	T3-4	approximately 80	{"unit": "80", "mods": ["IsApproximate"]}
+S0925443913001385-1319	4	Quantity	564	566	T4-5	80	{"mods": ["IsCount"]}
+S0925443913001385-1319	5	Quantity	1403	1417	T5-6	over a hundred	{"unit": "a hundred"}
+S0925443913001385-1319	5	MeasuredEntity	1418	1426	T5-7	proteins	{"HasQuantity": "T5-6"}
+S0925443913001385-1319	6	Quantity	3264	3268	T6-8	four	{"mods": ["IsCount"]}
+S0925443913001385-1319	6	MeasuredEntity	3269	3277	T6-9	siblings	{"HasQuantity": "T6-8"}
+S0925443913001385-1319	7	Quantity	3394	3408	T7-10	~ 2 megadalton	{"unit": "2 megadalton", "mods": ["IsApproximate"]}
+S0925443913001385-1319	7	MeasuredEntity	3362	3384	T7-11	mammalian mitoribosome	{"HasQuantity": "T7-10"}
+S0925443913001385-1319	8	Quantity	3828	3833	T8-12	~ 70%	{"unit": "%", "mods": ["IsApproximate"]}
+S0925443913001385-1319	8	MeasuredEntity	3810	3819	T8-13	particles	{"HasProperty": "T8-14"}
+S0925443913001385-1319	8	MeasuredProperty	3834	3838	T8-14	rRNA	{"HasQuantity": "T8-12"}
+S0925443913001385-1319	9	Quantity	3798	3809	T9-15	70S and 80S	{"unit": "S", "mods": ["IsRange"]}
+S0925443913001385-1319	9	MeasuredEntity	3810	3819	T9-16	particles	{"HasQuantity": "T9-15"}
+S0925443913001385-1683	0	Quantity	431	434	T0-0	two	{"mods": ["IsCount"]}
+S0925443913001385-1683	0	MeasuredEntity	435	454	T0-1	L7/L12 heterodimers	{"HasQuantity": "T0-0"}
+S0925443913001385-1683	1	Quantity	1376	1381	T1-2	~ 49%	{"unit": "%", "mods": ["IsApproximate"]}
+S0925443913001385-1683	1	MeasuredEntity	1361	1371	T1-3	patient IP	{"HasProperty": "T1-4"}
+S0925443913001385-1683	1	MeasuredProperty	1382	1388	T1-4	MRPL12	{"HasQuantity": "T1-2"}
+S0925443913001385-1683	2	Quantity	1549	1554	T2-5	~ 58%	{"unit": "%", "mods": ["IsApproximate"]}
+S0925443913001385-1683	2	MeasuredProperty	1545	1547	T2-6	IP	{"HasQuantity": "T2-5"}
+S0925443913001385-1683	2	MeasuredEntity	1558	1565	T2-7	control	{"HasProperty": "T2-6"}
+S0019103512003533-5318	0	Quantity	130	136	T0-0	10 keV	{"unit": "keV"}
+S0019103512003533-5318	0	MeasuredEntity	137	157	T0-1	electron energy flux	{"HasQuantity": "T0-0"}
+S0019103512003533-5318	1	Quantity	276	285	T1-2	400–650 K	{"unit": "K", "mods": ["IsRange"]}
+S0019103512003533-5318	1	MeasuredProperty	243	264	T1-3	observed temperatures	{"HasQuantity": "T1-2"}
+S0019103512003533-5318	1	MeasuredEntity	268	274	T1-4	Saturn	{"HasProperty": "T1-3"}
+S0019103512003533-5318	2	Quantity	649	660	T2-5	∼100 mV m−1	{"unit": "mV m\u22121", "mods": ["IsApproximate"]}
+S0019103512003533-5318	3	Quantity	788	794	T3-7	∼800 K	{"unit": "K", "mods": ["IsApproximate"]}
+S0019103512003533-5318	3	MeasuredEntity	759	784	T3-8	thermosphere temperatures	{"HasQuantity": "T3-7"}
+S0019103512003533-5318	4	Quantity	717	723	T4-9	10 keV	{"unit": "keV"}
+S0019103512003533-5318	4	MeasuredEntity	724	737	T4-10	electron flux	{"HasQuantity": "T4-9"}
+S0019103512003533-5318	5	Quantity	741	749	T5-11	1 mW m−2	{"unit": "W m\u22122"}
+S0019103512003533-5318	5	MeasuredEntity	724	737	T5-12	electron flux	{"HasQuantity": "T5-11"}
+S0301010413004096-693	0	Quantity	602	609	T0-0	∼16 wt%	{"unit": "wt%", "mods": ["IsApproximate"]}
+S0301010413004096-693	0	MeasuredProperty	610	631	T0-1	total uptake capacity	{"HasQuantity": "T0-0"}
+S0301010413004096-693	1	Quantity	575	579	T1-2	77 K	{"unit": "K"}
+S0301010413004096-693	1	MeasuredProperty	502	526	T1-3	H2 adsorption capacities	{"HasQuantity": "T1-2"}
+S0301010413004096-693	1	MeasuredEntity	459	469	T1-4	MOF family	{"HasProperty": "T1-3"}
+S0301010413004096-693	2	Quantity	1174	1184	T2-5	below 10 K	{"unit": "K", "mods": ["IsRange"]}
+S0301010413004096-693	2	MeasuredEntity	1130	1170	T2-6	In situ neutron powder diffraction (NPD)	{"HasQuantity": "T2-5"}
+S2213671113000908-643	0	Quantity	4	17	T0-0	After 25 days	{"unit": "days", "mods": ["IsRange"]}
+S2213671113000908-643	0	MeasuredProperty	21	36	T0-1	differentiation	{"HasQuantity": "T0-0"}
+S2213671113000908-643	0	MeasuredEntity	38	43	T0-2	cells	{"HasProperty": "T0-1"}
+S0257897213007573-574	0	Quantity	105	116	T0-0	20 × 20 μm2	{"unit": "\u00d7 20 \u03bcm2"}
+S0257897213007573-574	0	MeasuredEntity	88	103	T0-1	dual-layer film	{"HasQuantity": "T0-0"}
+S0257897213007573-574	1	Quantity	217	224	T1-2	0.22 nm	{"unit": "nm"}
+S0257897213007573-574	1	MeasuredEntity	229	232	T1-3	SiC	{"HasQuantity": "T1-2"}
+S0257897213007573-574	2	Quantity	308	316	T2-4	54.68 nm	{"unit": "nm"}
+S0257897213007573-574	2	MeasuredProperty	261	270	T2-5	roughness	{"HasQuantity": "T2-4"}
+S0257897213007573-574	2	MeasuredEntity	274	289	T2-6	dual-layer film	{"HasProperty": "T2-5"}
+S0257897213007573-574	3	Quantity	236	243	T3-7	1.46 nm	{"unit": "nm"}
+S2213158213000582-751	0	Quantity	27	32	T0-0	50 ms	{"unit": "ms"}
+S2213158213000582-751	0	MeasuredEntity	33	41	T0-1	activity	{"HasQuantity": "T0-0"}
+S2213158213000582-751	1	Quantity	99	105	T1-2	< 0.05	{"unit": "0.05", "mods": ["IsRange"]}
+S2213158213000582-751	1	MeasuredEntity	43	62	T1-3	Activation clusters	{"HasProperty": "T1-4"}
+S2213158213000582-751	1	MeasuredProperty	93	98	T1-4	FDR q	{"HasQuantity": "T1-2"}
+S2213158213000582-751	2	Quantity	197	203	T2-5	< 0.05	{"unit": "0.05", "mods": ["IsRange"]}
+S2213158213000582-751	2	MeasuredEntity	155	174	T2-6	Activation clusters	{"HasProperty": "T2-7"}
+S2213158213000582-751	2	MeasuredProperty	191	196	T2-7	FDR q	{"HasQuantity": "T2-5"}
+S0925443913001385-1526	0	Quantity	205	209	T0-0	1.2%	{"unit": "%"}
+S0925443913001385-1526	0	MeasuredEntity	216	223	T0-1	agarose	{"HasQuantity": "T0-0"}
+S0925443913001385-1526	1	Quantity	170	174	T1-2	5 μg	{"unit": "\u03bcg"}
+S0925443913001385-1526	1	MeasuredEntity	153	168	T1-3	aliquots of RNA	{"HasQuantity": "T1-2"}
+S1750583613004192-1689	0	Quantity	521	539	T0-0	hundreds of meters	{"unit": "s"}
+S1750583613004192-1689	0	MeasuredEntity	543	546	T0-1	ice	{"HasQuantity": "T0-0"}
+S1750583613004192-1689	1	Quantity	631	637	T1-2	10 MPa	{"unit": "MPa"}
+S1750583613004192-1689	1	MeasuredProperty	641	653	T1-3	overpressure	{"HasQuantity": "T1-2"}
+S1750583613004192-1689	2	Quantity	827	857	T2-4	less than a few thousand years	{"unit": "years", "mods": ["IsRange"]}
+S1750583613004192-1689	2	MeasuredProperty	815	823	T2-5	timespan	{"HasQuantity": "T2-4"}
+S1750583613004192-1689	3	Quantity	904	910	T3-6	10 MPa	{"unit": "MPa"}
+S1750583613004192-1689	3	MeasuredEntity	896	902	T3-7	shales	{"HasQuantity": "T3-6"}
+S0960148113002735-1289	0	Quantity	158	162	T0-0	26 m	{"unit": "m"}
+S0960148113002735-1289	0	MeasuredProperty	146	154	T0-1	diameter	{"HasQuantity": "T0-0"}
+S0960148113002735-1289	1	Quantity	140	144	T1-2	24 m	{"unit": "m"}
+S0960148113002735-1289	1	MeasuredProperty	130	136	T1-3	height	{"HasQuantity": "T1-2"}
+S0960148113002735-1289	1	MeasuredEntity	122	129	T1-4	turbine	{"HasProperty": "T1-3"}
+S0960148113002735-1289	2	Quantity	63	69	T2-5	200 kW	{"unit": "kW"}
+S0960148113002735-1289	2	MeasuredEntity	70	77	T2-6	turbine	{"HasQuantity": "T2-5"}
+S0378112713005288-1916	0	Quantity	434	445	T0-0	up to 100 m	{"unit": "m", "mods": ["IsRange"]}
+S0378112713005288-1916	0	MeasuredProperty	424	433	T0-1	distances	{"HasQuantity": "T0-0"}
+S0378112713005288-1916	1	Quantity	633	637	T1-3	0.28	{}
+S0378112713005288-1916	1	MeasuredProperty	657	658	T1-4	p	{"HasQuantity": "T1-3"}
+S0378112713005288-1916	2	Quantity	624	628	T2-5	0.23	{}
+S0378112713005288-1916	2	MeasuredProperty	620	621	T2-6	R	{"HasQuantity": "T2-5"}
+S0378112713005288-1916	2	MeasuredEntity	577	582	T2-7	rowan	{"HasProperty": "T2-6"}
+S0378112713005288-1916	3	Quantity	659	667	T3-8	< 0.0001	{"unit": "0.0001", "mods": ["IsRange"]}
+S0378112713005288-1916	3	MeasuredProperty	657	658	T3-9	p	{"HasQuantity": "T3-8"}
+S0378112713005288-1916	3	MeasuredEntity	556	590	T3-10	regeneration of both rowan and oak	{"HasProperty": "T3-9"}
+S0032063313003218-7156	0	Quantity	139	142	T0-0	~6×	{"unit": "\u00d7", "mods": ["IsApproximate"]}
+S0032063313003218-7156	1	Quantity	176	179	T1-2	~3×	{"unit": "\u00d7", "mods": ["IsApproximate"]}
+S0032063313003218-7156	2	Quantity	272	275	T2-4	~7×	{"unit": "\u00d7", "mods": ["IsApproximate"]}
+S0032063313003218-7156	2	MeasuredProperty	207	212	T2-5	power	{"HasQuantity": "T2-4"}
+S0032063313003218-7156	2	MeasuredEntity	236	249	T2-6	magnetosphere	{"HasProperty": "T2-5"}
+S0032063313003218-7156	3	Quantity	372	379	T3-7	~2600TW	{"unit": "TW", "mods": ["IsApproximate"]}
+S0032063313003218-7156	3	MeasuredEntity	342	368	T3-8	total power per hemisphere	{"HasQuantity": "T3-7"}
+S0032063313003218-7156	4	Quantity	389	400	T4-9	three times	{"unit": "times"}
+S0032063313003218-7156	4	MeasuredEntity	342	368	T4-10	total power per hemisphere	{"HasQuantity": "T4-9"}
+S0032063313003218-7156	5	Quantity	663	667	T5-11	~75%	{"unit": "%", "mods": ["IsApproximate"]}
+S0032063313003218-7156	5	MeasuredProperty	684	693	T5-12	magnitude	{"HasQuantity": "T5-11"}
+S0032063313003218-7156	5	MeasuredEntity	698	719	T5-13	magnetospheric’ power	{"HasProperty": "T5-12"}
+S0032063313003218-7156	6	Quantity	1156	1159	T6-14	30%	{"unit": "%"}
+S0032063313003218-7156	6	MeasuredProperty	1110	1136	T6-15	total power per hemisphere	{"HasQuantity": "T6-14"}
+S0032063313003218-7156	6	MeasuredEntity	1140	1147	T6-16	case EF	{"HasProperty": "T6-15"}
+S0960148113005727-855	0	Quantity	270	273	T0-0	21%	{"unit": "%"}
+S0960148113005727-855	0	MeasuredProperty	216	236	T0-1	average load factors	{"HasQuantity": "T0-0"}
+S0960148113005727-855	1	Quantity	174	184	T1-2	1.6 ± 0.2%	{"unit": "%", "mods": ["HasTolerance"]}
+S0960148113005727-855	2	Quantity	281	283	T2-4	19	{"mods": ["IsCount"]}
+S0960148113005727-855	2	MeasuredProperty	216	236	T2-5	average load factors	{"HasQuantity": "T2-4"}
+S0960148113005727-855	3	Quantity	252	257	T3-6	28.5%	{"unit": "%"}
+S0960148113005727-855	3	MeasuredProperty	216	236	T3-7	average load factors	{"HasQuantity": "T3-6"}
+S0960148113005727-855	3	MeasuredEntity	142	155	T3-8	Wind turbines	{"HasProperty": "T3-7"}
+S0960148113005727-855	4	Quantity	439	442	T4-9	12%	{"unit": "%"}
+S0960148113005727-855	4	MeasuredProperty	429	435	T4-10	output	{"HasQuantity": "T4-9"}
+S0960148113005727-855	5	Quantity	520	522	T5-11	9%	{"unit": "%"}
+S0960148113005727-855	5	MeasuredEntity	487	516	T5-12	levelised cost of electricity	{"HasQuantity": "T5-11"}
+S0960148113005727-855	6	Quantity	450	461	T6-13	twenty year	{"unit": "year"}
+S0960148113005727-855	6	MeasuredProperty	462	470	T6-14	lifetime	{"HasQuantity": "T6-13"}
+S2213158213000582-1410	0	Quantity	506	511	T0-0	50 ms	{"unit": "ms"}
+S2213158213000582-1410	0	MeasuredEntity	533	554	T0-1	STG group differences	{"HasQuantity": "T0-0"}
+S2213158213000582-1410	1	Quantity	608	621	T1-2	50 and 100 ms	{"unit": "ms", "mods": ["IsRange"]}
+S2213158213000582-1410	1	MeasuredEntity	556	573	T1-3	group differences	{"HasQuantity": "T1-2"}
+S2213158213000582-1410	2	Quantity	526	532	T2-4	100 ms	{"unit": "ms"}
+S2213158213000582-1410	2	MeasuredEntity	533	554	T2-5	STG group differences	{"HasQuantity": "T2-4"}
+S0032386113005454-2022	0	Quantity	865	879	T0-0	about 0.1–5 μm	{"unit": "\u03bcm", "mods": ["IsApproximate"]}
+S0032386113005454-2022	0	MeasuredEntity	817	850	T0-1	rubber or thermoplastic particles	{"HasProperty": "T0-2"}
+S0032386113005454-2022	0	MeasuredProperty	883	891	T0-2	diameter	{"HasQuantity": "T0-0"}
+S0032386113005454-2022	1	Quantity	918	929	T1-3	about 5–20%	{"unit": "%", "mods": ["IsApproximate"]}
+S0032386113005454-2022	1	MeasuredEntity	817	850	T1-4	rubber or thermoplastic particles	{"HasProperty": "T1-5"}
+S0032386113005454-2022	1	MeasuredProperty	899	914	T1-5	volume fraction	{"HasQuantity": "T1-3"}
+S0032063313003218-5227	0	Quantity	44	55	T0-0	up to 700 K	{"unit": "K", "mods": ["IsRange"]}
+S0032063313003218-5227	0	MeasuredEntity	4	40	T0-1	Jovian upper atmospheric temperature	{"HasQuantity": "T0-0"}
+S0032063313003218-5227	1	Quantity	244	257	T1-2	over 40 years	{"unit": "years", "mods": ["IsRange"]}
+S0032063313003218-5227	1	MeasuredEntity	181	216	T1-3	Jupiter and the other giant planets	{"HasQuantity": "T1-2"}
+S0960148113005727-1466	0	Quantity	87	95	T0-0	4.99 TWh	{"unit": "h"}
+S0960148113005727-1466	0	MeasuredProperty	4	30	T0-1	cumulative lifetime output	{"HasQuantity": "T0-0"}
+S0960148113005727-1466	1	Quantity	60	65	T1-2	28.5%	{"unit": "%"}
+S0960148113005727-1466	1	MeasuredProperty	66	77	T1-3	load factor	{"HasQuantity": "T1-2"}
+S0960148113005727-1466	1	MeasuredEntity	43	52	T1-4	wind farm	{"HasProperty": "T1-3"}
+S0960148113005727-1466	2	Quantity	36	42	T2-5	100 MW	{"unit": "MW"}
+S0960148113005727-1466	2	MeasuredEntity	43	52	T2-6	wind farm	{"HasQuantity": "T2-5"}
+S0960148113005727-1466	3	Quantity	96	109	T3-7	over 20 years	{"unit": "years", "mods": ["IsRange"]}
+S0960148113005727-1466	3	MeasuredProperty	4	30	T3-8	cumulative lifetime output	{"HasQuantity": "T3-7"}
+S0960148113005727-1466	4	Quantity	251	256	T4-9	12.5%	{"unit": "%"}
+S0960148113005727-1466	4	MeasuredEntity	119	123	T4-10	farm	{"HasProperty": "T4-11"}
+S0960148113005727-1466	4	MeasuredProperty	243	247	T4-11	fall	{"HasQuantity": "T4-9"}
+S0960148113005727-1466	5	Quantity	231	239	T5-12	4.37 TWh	{"unit": "h"}
+S0960148113005727-1466	5	MeasuredEntity	119	123	T5-13	farm	{"HasProperty": "T5-14"}
+S0960148113005727-1466	5	MeasuredProperty	204	219	T5-14	lifetime output	{"HasQuantity": "T5-12"}
+S0960148113005727-1466	6	Quantity	165	177	T6-15	−0.41 points	{"unit": "s"}
+S0960148113005727-1466	6	MeasuredEntity	119	123	T6-16	farm	{"HasProperty": "T6-17"}
+S0960148113005727-1466	6	MeasuredProperty	134	161	T6-17	linear annual deterioration	{"HasQuantity": "T6-15"}
+S0960148113005727-1466	7	Quantity	580	602	T7-18	from approximately £90	{"unit": "approximately \u00a390", "mods": ["IsApproximate"]}
+S0960148113005727-1466	7	MeasuredEntity	517	528	T7-19	degradation	{"HasQuantity": "T7-18"}
+S0960148113005727-1466	8	Quantity	512	515	T8-20	10%	{"unit": "%"}
+S0960148113005727-1466	8	MeasuredProperty	495	508	T8-21	discount rate	{"HasQuantity": "T8-20"}
+S0960148113005727-1466	8	MeasuredEntity	517	528	T8-22	degradation	{"HasProperty": "T8-21"}
+S0960148113005727-1466	9	Quantity	576	578	T9-23	9%	{"unit": "%"}
+S0960148113005727-1466	9	MeasuredEntity	517	528	T9-24	degradation	{"HasQuantity": "T9-23"}
+S0960148113005727-1466	10	Quantity	585	602	T10-25	approximately £90	{"unit": "\u00a390", "mods": ["IsApproximate"]}
+S0960148113005727-1466	10	MeasuredEntity	517	528	T10-26	degradation	{"HasQuantity": "T10-25"}
+S0960148113005727-739	0	Quantity	203	220	T0-0	last eleven years	{"unit": "years", "mods": ["IsRange"]}
+S0960148113005727-739	0	MeasuredEntity	177	193	T0-1	individual farms	{"HasQuantity": "T0-0"}
+S0022459611006116-1257	0	Quantity	64	70	T0-0	1323 K	{"unit": "K"}
+S0022459611006116-1257	0	MeasuredEntity	3	19	T0-1	off-white powder	{"HasProperty": "T0-2"}
+S0022459611006116-1257	0	MeasuredProperty	36	60	T0-2	successfully synthesised	{"HasQuantity": "T0-0"}
+S0022459611006116-1257	1	Quantity	247	258	T1-3	4.2153(4) Å	{"unit": "\u00c5"}
+S0022459611006116-1257	1	MeasuredEntity	224	239	T1-4	cubic unit cell	{"HasProperty": "T1-5"}
+S0022459611006116-1257	1	MeasuredProperty	245	246	T1-5	a	{"HasQuantity": "T1-3"}
+S0022459611006116-1257	2	Quantity	528	538	T2-6	1.1(2) wt%	{"unit": "wt%"}
+S0022459611006116-1257	2	MeasuredEntity	504	524	T2-7	final phase fraction	{"HasQuantity": "T2-6"}
+S0022459611006116-1257	3	Quantity	922	929	T3-8	9.36 fm	{"unit": "m"}
+S0022459611006116-1257	3	MeasuredProperty	917	921	T3-9	N: b	{"HasQuantity": "T3-8"}
+S0022459611006116-1257	4	Quantity	936	943	T4-10	5.65 fm	{"unit": "m"}
+S0022459611006116-1257	4	MeasuredProperty	931	935	T4-11	F: b	{"HasQuantity": "T4-10"}
+S0022459611006116-1257	5	Quantity	1590	1594	T5-12	145°	{"unit": "\u00b0"}
+S0022459611006116-1257	5	MeasuredEntity	1564	1583	T5-13	backscattering bank	{"HasProperty": "T5-14"}
+S0022459611006116-1257	5	MeasuredProperty	1585	1589	T5-14	〈2θ〉	{"HasQuantity": "T5-12"}
+S0167577X13006393-662	0	Quantity	59	71	T0-0	1 ml or 5 ml	{"unit": "ml or 5 ml", "mods": ["IsRange"]}
+S0167577X13006393-662	0	MeasuredEntity	72	79	T0-1	syringe	{"HasQuantity": "T0-0"}
+S0167577X13006393-662	1	Quantity	246	253	T1-2	12.2 kV	{"unit": "kV"}
+S0167577X13006393-662	1	MeasuredEntity	176	198	T1-3	electrospinning nozzle	{"HasProperty": "T1-4"}
+S0167577X13006393-662	1	MeasuredProperty	227	234	T1-4	voltage	{"HasQuantity": "T1-2"}
+S0167577X13006393-662	2	Quantity	212	218	T2-5	1 ml/h	{"unit": "h"}
+S0167577X13006393-662	2	MeasuredEntity	144	152	T2-6	solution	{"HasProperty": "T2-7"}
+S0167577X13006393-662	2	MeasuredProperty	204	208	T2-7	rate	{"HasQuantity": "T2-5"}
+S0032386113005454-1270	0	Quantity	194	199	T0-0	20 °C	{"unit": "\u00b0C"}
+S0032386113005454-1270	0	MeasuredEntity	146	190	T0-1	unmodified and S-CSR-modified epoxy polymers	{"HasQuantity": "T0-0"}
+S2211124712002884-620	0	Quantity	233	238	T0-0	50 μm	{"unit": "\u03bcm"}
+S2211124712002884-620	0	MeasuredEntity	222	231	T0-1	Scale bar	{"HasQuantity": "T0-0"}
+S2213671113001306-1385	0	Quantity	310	323	T0-0	beyond 1 week	{"unit": "week", "mods": ["IsRange"]}
+S2213671113001306-1385	0	MeasuredEntity	293	308	T0-1	follow-up exams	{"HasQuantity": "T0-0"}
+S0032063313003218-5269	0	Quantity	255	265	T0-0	940–1065 K	{"unit": "K", "mods": ["IsRange"]}
+S0032063313003218-5269	0	MeasuredEntity	230	253	T0-1	ionospheric temperature	{"HasQuantity": "T0-0"}
+S0032063313003218-5269	1	Quantity	115	143	T1-2	from September 8 to 11, 1998	{"unit": "September 8 to 11, 1998", "mods": ["IsRange"]}
+S0032063313003218-5269	2	Quantity	371	381	T2-3	277 mW m−2	{"unit": "W m\u22122"}
+S0032063313003218-5269	2	MeasuredProperty	320	325	T2-4	rates	{"HasQuantity": "T2-3"}
+S0032063313003218-5269	3	Quantity	386	398	T3-5	September 11	{"unit": "11"}
+S0032063313003218-5269	4	Quantity	341	350	T4-6	67 mW m−2	{"unit": "W m\u22122"}
+S0032063313003218-5269	5	Quantity	680	684	T5-7	~20%	{"unit": "%", "mods": ["IsApproximate"]}
+S0032063313003218-5269	5	MeasuredProperty	587	600	T5-8	Cooling rates	{"HasQuantity": "T5-7"}
+S0032063313003218-5269	5	MeasuredEntity	692	719	T5-9	total inferred heating rate	{"HasProperty": "T5-8"}
+S0925443913001385-1621	0	Quantity	16	21	T0-0	27.5%	{"unit": "%"}
+S0925443913001385-1621	0	MeasuredEntity	0	12	T0-1	Human MRPL12	{"HasQuantity": "T0-0"}
+S0925443913001385-1621	1	Quantity	150	160	T1-2	107 to end	{"unit": "to end", "mods": ["IsRange"]}
+S0925443913001385-1621	1	MeasuredEntity	125	148	T1-3	C-terminal domain (CTD)	{"HasQuantity": "T1-2"}
+S0022459611006116-1351	0	Quantity	58	64	T0-0	1423 K	{"unit": "K"}
+S0022459611006116-1351	0	MeasuredEntity	19	36	T0-1	pale cream powder	{"HasQuantity": "T0-0"}
+S0022459611006116-1351	1	Quantity	440	447	T1-2	10.0322	{}
+S0022459611006116-1351	1	MeasuredEntity	394	414	T1-3	tetragonal unit cell	{"HasProperty": "T1-4"}
+S0022459611006116-1351	1	MeasuredProperty	438	439	T1-4	c	{"HasQuantity": "T1-2"}
+S0022459611006116-1351	2	Quantity	519	527	T2-5	10.042 Å	{"unit": "\u00c5"}
+S0022459611006116-1351	2	MeasuredProperty	517	518	T2-6	c	{"HasQuantity": "T2-5"}
+S0022459611006116-1351	2	MeasuredEntity	394	414	T2-7	tetragonal unit cell	{"HasProperty": "T2-6"}
+S0022459611006116-1351	3	Quantity	505	512	T3-8	4.186 Å	{"unit": "\u00c5"}
+S0022459611006116-1351	3	MeasuredEntity	394	414	T3-9	tetragonal unit cell	{"HasProperty": "T3-10"}
+S0022459611006116-1351	3	MeasuredProperty	503	504	T3-10	a	{"HasQuantity": "T3-8"}
+S2213671113000738-447	0	Quantity	234	238	T0-0	>10%	{"unit": "%", "mods": ["IsRange"]}
+S2213671113000738-447	0	MeasuredProperty	209	221	T0-1	MHC-I allele	{"HasQuantity": "T0-0"}
+S2213671113000738-447	0	MeasuredEntity	242	261	T0-2	cDNA sequence reads	{"HasProperty": "T0-1"}
+S0038071711004354-1644	0	Quantity	85	91	T0-0	898 mm	{"unit": "mm"}
+S0038071711004354-1644	1	Quantity	43	50	T1-2	14.8 °C	{"unit": "\u00b0C"}
+S0038071711004354-1644	1	MeasuredProperty	16	39	T1-3	mean annual temperature	{"HasQuantity": "T1-2"}
+S0038071711004354-1644	2	Quantity	301	307	T2-4	2–5 cm	{"unit": "cm"}
+S0038071711004354-1644	2	MeasuredEntity	286	300	T2-5	organic matter	{"HasProperty": "T2-6"}
+S0038071711004354-1644	2	MeasuredProperty	308	317	T2-6	thickness	{"HasQuantity": "T2-4"}
+S0038071711004354-1644	3	Quantity	394	397	T3-7	93%	{"unit": "%"}
+S0038071711004354-1644	3	MeasuredEntity	364	376	T3-8	mineral soil	{"HasQuantity": "T3-7"}
+S0038071711004354-1644	4	Quantity	417	419	T4-9	3%	{"unit": "%"}
+S0038071711004354-1644	4	MeasuredEntity	364	376	T4-10	mineral soil	{"HasProperty": "T4-11"}
+S0038071711004354-1644	4	MeasuredProperty	420	424	T4-11	silt	{"HasQuantity": "T4-9"}
+S0038071711004354-1644	5	Quantity	355	360	T5-12	0.1 m	{"unit": "m"}
+S0038071711004354-1644	5	MeasuredEntity	364	376	T5-13	mineral soil	{"HasQuantity": "T5-12"}
+S0038071711004354-1644	6	Quantity	404	406	T6-14	4%	{"unit": "%"}
+S0038071711004354-1644	6	MeasuredEntity	364	376	T6-15	mineral soil	{"HasProperty": "T6-16"}
+S0038071711004354-1644	6	MeasuredProperty	407	411	T6-16	clay	{"HasQuantity": "T6-14"}
+S0019103512003995-2096	0	Quantity	637	647	T0-0	0.1–1 μbar	{"unit": "\u03bcbar", "mods": ["IsRange"]}
+S0019103512003995-2096	0	MeasuredProperty	632	634	T0-1	p0	{"HasQuantity": "T0-0"}
+S0019103512003995-2096	0	MeasuredEntity	583	597	T0-2	lower boundary	{"HasProperty": "T0-1"}
+S0019103512003995-2096	1	Quantity	693	705	T1-3	8000–11,000K	{"unit": "K", "mods": ["IsRange"]}
+S0019103512003995-2096	1	MeasuredEntity	605	625	T1-4	absorbing layer of H	{"HasProperty": "T1-5"}
+S0019103512003995-2096	1	MeasuredProperty	653	669	T1-5	mean temperature	{"HasQuantity": "T1-3"}
+S0019103512003995-2096	2	Quantity	741	746	T2-6	2.7Rp	{"unit": "Rp"}
+S0019103512003995-2096	2	MeasuredEntity	715	729	T2-7	upper boundary	{"HasProperty": "T2-8"}
+S0019103512003995-2096	2	MeasuredProperty	736	738	T2-8	r∞	{"HasQuantity": "T2-6"}
+S0019103512003995-2096	3	Quantity	817	823	T3-9	1 μbar	{"unit": "\u03bcbar"}
+S0019103512003995-2096	3	MeasuredEntity	793	795	T3-11	H2	{"HasProperty": "T3-12"}
+S0019103512003995-2096	3	MeasuredProperty	796	807	T3-12	dissociates	{"HasQuantity": "T3-9"}
+S0019103512003995-2096	4	Quantity	1049	1069	T4-13	approximately 8250 K	{"unit": "K", "mods": ["IsApproximate"]}
+S0019103512003995-2096	4	MeasuredProperty	996	1012	T4-14	mean temperature	{"HasQuantity": "T4-13"}
+S0019103512003995-2096	4	MeasuredEntity	1020	1045	T4-15	thermosphere of HD209458b	{"HasProperty": "T4-14"}
+S0038071711004354-2370	0	Quantity	262	268	T0-0	27–48%	{"unit": "%", "mods": ["IsRange"]}
+S0038071711004354-2370	0	MeasuredEntity	218	222	T0-1	fSOM	{"HasProperty": "T0-2"}
+S0038071711004354-2370	0	MeasuredProperty	257	259	T0-2	dƒ	{"HasQuantity": "T0-0"}
+S0038071711004354-2370	1	Quantity	203	209	T1-3	14–75%	{"unit": "%", "mods": ["IsRange"]}
+S0038071711004354-2370	1	MeasuredProperty	198	200	T1-4	dƒ	{"HasQuantity": "T1-3"}
+S0038071711004354-2370	1	MeasuredEntity	123	125	T1-5	fL	{"HasProperty": "T1-4"}
+S0038071711004354-2370	2	Quantity	186	189	T2-6	15%	{"unit": "%"}
+S0038071711004354-2370	2	MeasuredEntity	123	125	T2-7	fL	{"HasQuantity": "T2-6"}
+S0038071711004354-2370	3	Quantity	246	248	T3-8	5%	{"unit": "%"}
+S0038071711004354-2370	3	MeasuredEntity	218	222	T3-9	fSOM	{"HasProperty": "T3-10"}
+S0038071711004354-2370	3	MeasuredProperty	241	244	T3-10	SEs	{"HasQuantity": "T3-8"}
+S0167278913001450-12425	0	Quantity	48	74	T0-0	100, 500, 1000, and 1500 m	{"unit": "m"}
+S0167278913001450-12425	0	MeasuredEntity	15	37	T0-1	steady quadrupole flow	{"HasProperty": "T0-2"}
+S0167278913001450-12425	0	MeasuredProperty	41	47	T0-2	depths	{"HasQuantity": "T0-0"}
+S0016236113008041-3127	0	Quantity	271	272	T0-0	4	{}
+S0016236113008041-3127	0	MeasuredEntity	273	287	T0-1	major elements	{"HasQuantity": "T0-0"}
+S0016236113008041-3127	1	Quantity	310	317	T1-2	up to 9	{"unit": "to 9", "mods": ["IsRange"]}
+S0016236113008041-3127	1	MeasuredEntity	318	332	T1-3	minor elements	{"HasQuantity": "T1-2"}
+S0016236113008041-3127	2	Quantity	316	317	T2-4	9	{}
+S0016236113008041-3127	2	MeasuredEntity	318	332	T2-5	minor elements	{"HasQuantity": "T2-4"}
+S0016236113008041-3127	3	Quantity	1016	1021	T3-6	20 °C	{"unit": "\u00b0C"}
+S0016236113008041-3127	3	MeasuredProperty	1007	1012	T3-7	steps	{"HasQuantity": "T3-6"}
+S0016236113008041-3127	4	Quantity	946	958	T4-8	up to 750 °C	{"unit": "\u00b0C", "mods": ["IsRange"]}
+S0016236113008041-3127	4	MeasuredProperty	922	934	T4-9	temperatures	{"HasQuantity": "T4-8"}
+S0016236113008041-3127	5	Quantity	938	944	T5-10	600 °C	{"unit": "\u00b0C"}
+S0016236113008041-3127	5	MeasuredProperty	922	934	T5-11	temperatures	{"HasQuantity": "T5-10"}
+S0016236113008041-3127	6	Quantity	979	986	T6-12	1000 °C	{"unit": "\u00b0C"}
+S0016236113008041-3127	6	MeasuredProperty	1007	1012	T6-13	steps	{"HasQuantity": "T6-12"}
+S0016236113008041-3127	6	MeasuredEntity	991	1002	T6-14	calcination	{"HasProperty": "T6-13"}
+S0378383912000130-3739	0	Quantity	8	14	T0-0	1.5 mm	{"unit": "mm"}
+S0378383912000130-3739	0	MeasuredEntity	15	20	T0-1	beach	{"HasQuantity": "T0-0"}
+S0378383912000130-3739	1	Quantity	102	105	T1-2	2 s	{"unit": "s"}
+S0378383912000130-3739	1	MeasuredProperty	98	99	T1-3	t	{"HasQuantity": "T1-2"}
+S0378383911001669-2205	0	Quantity	196	203	T0-0	0.772 m	{"unit": "m"}
+S0378383911001669-2205	1	Quantity	211	217	T1-2	1.3 mm	{"unit": "mm"}
+S0378383911001669-2205	1	MeasuredEntity	253	260	T1-3	beaches	{"HasQuantity": "T1-2"}
+S0378383911001669-2205	2	Quantity	233	239	T2-4	5.4 mm	{"unit": "mm"}
+S0378383911001669-2205	2	MeasuredEntity	253	260	T2-5	beaches	{"HasQuantity": "T2-4"}
+S0378383911001669-2205	3	Quantity	283	289	T3-6	1.3 mm	{"unit": "mm"}
+S0378383911001669-2205	3	MeasuredEntity	290	306	T3-7	sand-rough beach	{"HasQuantity": "T3-6"}
+S0378383911001669-2205	4	Quantity	580	583	T4-8	two	{"mods": ["IsCount"]}
+S0378383911001669-2205	4	MeasuredEntity	584	591	T4-9	methods	{"HasQuantity": "T4-8"}
+S0378383911001669-2205	5	Quantity	671	680	T5-10	up to 1 s	{"unit": "s", "mods": ["IsRange"]}
+S0378383911001669-2205	5	MeasuredEntity	639	646	T5-11	results	{"HasQuantity": "T5-10"}
+S0378112713005288-1800	0	Quantity	26	33	T0-0	2 × 2 m	{"unit": "m"}
+S0378112713005288-1800	0	MeasuredEntity	34	52	T0-1	temporary quadrats	{"HasQuantity": "T0-0"}
+S0378112713005288-1800	1	Quantity	388	392	T1-2	1140	{}
+S0378112713005288-1800	1	MeasuredEntity	393	401	T1-3	quadrats	{"HasQuantity": "T1-2"}
+S0378112713005288-1800	2	Quantity	230	236	T2-4	100A/n	{"unit": "A/n"}
+S0378112713005288-1800	2	MeasuredProperty	228	229	T2-5	S	{"HasQuantity": "T2-4"}
+S0378112713005288-1800	2	MeasuredEntity	193	200	T2-6	formula	{"HasProperty": "T2-5"}
+S0378112713005288-1800	3	Quantity	532	538	T3-7	⩽50 cm	{"unit": "cm", "mods": ["IsApproximate"]}
+S0378112713005288-1800	3	MeasuredEntity	508	517	T3-8	seedlings	{"HasProperty": "T3-9"}
+S0378112713005288-1800	3	MeasuredProperty	525	531	T3-9	height	{"HasQuantity": "T3-7"}
+S0378112713005288-1800	4	Quantity	565	571	T4-10	>50 cm	{"unit": "cm", "mods": ["IsRange"]}
+S0378112713005288-1800	4	MeasuredEntity	542	550	T4-11	saplings	{"HasProperty": "T4-12"}
+S0378112713005288-1800	4	MeasuredProperty	558	564	T4-12	height	{"HasQuantity": "T4-10"}
+S0378112713005288-1800	5	Quantity	714	718	T5-13	<2 m	{"unit": "m", "mods": ["IsRange"]}
+S0378112713005288-1800	5	MeasuredEntity	708	713	T5-14	trees	{"HasProperty": "T5-15"}
+S0378112713005288-1800	5	MeasuredProperty	719	723	T5-15	tall	{"HasQuantity": "T5-13"}
+S0378112713005288-1800	6	Quantity	953	965	T6-16	within 250 m	{"unit": "m", "mods": ["IsRange"]}
+S0378112713005288-1800	6	MeasuredEntity	971	989	T6-17	native seed source	{"HasQuantity": "T6-16"}
+S0378112713005288-1800	7	Quantity	1187	1201	T7-18	more than 100%	{"unit": "%", "mods": ["IsRange"]}
+S0378112713005288-1800	7	MeasuredEntity	1161	1183	T7-19	total vegetation cover	{"HasQuantity": "T7-18"}
+S0378112713005288-1800	8	Quantity	1774	1795	T8-20	more than a few years	{"unit": "years", "mods": ["IsRange"]}
+S0378112713005288-1800	8	MeasuredEntity	1742	1747	T8-21	sites	{"HasProperty": "T8-22"}
+S0378112713005288-1800	8	MeasuredProperty	1762	1773	T8-22	clearfelled	{"HasQuantity": "T8-20"}
+S0378383912000130-3891	0	Quantity	94	97	T0-0	two	{"mods": ["IsCount"]}
+S0378383912000130-3891	0	MeasuredEntity	98	130	T0-1	permeable coarse-grained beaches	{"HasQuantity": "T0-0"}
+S0378383912000130-3891	1	Quantity	132	149	T1-2	1.5 mm and 8.5 mm	{"unit": "mm", "mods": ["IsList"]}
+S0378383912000130-3891	1	MeasuredEntity	98	130	T1-3	permeable coarse-grained beaches	{"HasQuantity": "T1-2"}
+S0378383912000130-3891	2	Quantity	534	537	T2-4	two	{"mods": ["IsCount"]}
+S0378383912000130-3891	2	MeasuredEntity	538	547	T2-5	sediments	{"HasQuantity": "T2-4"}
+S037842901300244X-1427	0	Quantity	244	248	T0-0	five	{"mods": ["IsCount"]}
+S037842901300244X-1427	1	Quantity	420	431	T1-1	Two-hundred	{"mods": ["IsCount"]}
+S037842901300244X-1427	1	MeasuredEntity	432	454	T1-2	full-sib families (FS)	{"HasQuantity": "T1-1"}
+S037842901300244X-1427	2	Quantity	956	959	T2-3	49%	{"unit": "%"}
+S037842901300244X-1427	2	MeasuredProperty	964	984	T2-4	higher panicle yield	{"HasQuantity": "T2-3"}
+S037842901300244X-1427	2	MeasuredEntity	992	997	T2-5	C5-FS	{"HasProperty": "T2-4"}
+S037842901300244X-1427	3	Quantity	918	921	T3-6	62%	{"unit": "%"}
+S037842901300244X-1427	3	MeasuredProperty	922	950	T3-7	lower downy mildew incidence	{"HasQuantity": "T3-6"}
+S037842901300244X-1427	4	Quantity	960	963	T4-8	31%	{"unit": "%"}
+S037842901300244X-1427	4	MeasuredProperty	964	984	T4-9	higher panicle yield	{"HasQuantity": "T4-8"}
+S037842901300244X-1427	4	MeasuredEntity	992	997	T4-10	C5-FS	{"HasProperty": "T4-9"}
+S037842901300244X-1427	5	Quantity	914	917	T5-11	46%	{"unit": "%"}
+S037842901300244X-1427	5	MeasuredProperty	922	950	T5-12	lower downy mildew incidence	{"HasQuantity": "T5-11"}
+S037842901300244X-1427	6	Quantity	914	921	T6-13	46%/62%	{"unit": "%"}
+S037842901300244X-1427	6	MeasuredProperty	922	950	T6-14	lower downy mildew incidence	{"HasQuantity": "T6-13"}
+S037842901300244X-1427	7	Quantity	820	823	T7-15	51%	{"unit": "%"}
+S037842901300244X-1427	8	Quantity	824	826	T8-16	1%	{"unit": "%"}
+S037842901300244X-1427	9	Quantity	1312	1315	T9-17	76%	{"unit": "%"}
+S037842901300244X-1427	9	MeasuredEntity	1274	1279	T9-18	C5-FS	{"HasProperty": "T9-19"}
+S037842901300244X-1427	9	MeasuredProperty	1284	1308	T9-19	operative heritabilities	{"HasQuantity": "T9-17"}
+S037842901300244X-1427	10	Quantity	1327	1330	T10-20	84%	{"unit": "%"}
+S037842901300244X-1427	10	MeasuredEntity	1274	1279	T10-21	C5-FS	{"HasProperty": "T10-22"}
+S037842901300244X-1427	10	MeasuredProperty	1284	1308	T10-22	operative heritabilities	{"HasQuantity": "T10-20"}
+S037842901300244X-1427	11	Quantity	1344	1347	T11-23	34%	{"unit": "%"}
+S037842901300244X-1427	11	MeasuredProperty	1284	1308	T11-24	operative heritabilities	{"HasQuantity": "T11-23"}
+S0032386113005454-2876	0	Quantity	311	316	T0-0	20 °C	{"unit": "\u00b0C"}
+S0032386113005454-2876	0	MeasuredProperty	299	307	T0-1	fracture	{"HasQuantity": "T0-0"}
+S175058361300203X-1240	0	Quantity	508	513	T0-0	34 °C	{"unit": "\u00b0C"}
+S175058361300203X-1240	0	MeasuredProperty	440	451	T0-1	temperature	{"HasQuantity": "T0-0"}
+S175058361300203X-1240	0	MeasuredEntity	459	476	T0-2	injection horizon	{"HasProperty": "T0-1"}
+S175058361300203X-1240	1	Quantity	482	503	T1-3	approximately 6.2 MPa	{"unit": "MPa", "mods": ["IsApproximate"]}
+S175058361300203X-1240	1	MeasuredProperty	427	435	T1-4	pressure	{"HasQuantity": "T1-3"}
+S175058361300203X-1240	1	MeasuredEntity	459	476	T1-5	injection horizon	{"HasProperty": "T1-4"}
+S175058361300203X-1240	2	Quantity	723	728	T2-6	38 °C	{"unit": "\u00b0C"}
+S175058361300203X-1240	2	MeasuredProperty	666	677	T2-7	temperature	{"HasQuantity": "T2-6"}
+S175058361300203X-1240	3	Quantity	696	718	T3-8	approximately 7.73 MPa	{"unit": "MPa", "mods": ["IsApproximate"]}
+S175058361300203X-1240	3	MeasuredProperty	653	661	T3-9	pressure	{"HasQuantity": "T3-8"}
+S175058361300203X-1240	4	Quantity	639	651	T4-10	October 2009	{"unit": "2009"}
+S175058361300203X-1240	5	Quantity	1098	1114	T5-11	around 260 kg/m3	{"unit": "g/m3", "mods": ["IsApproximate"]}
+S175058361300203X-1240	5	MeasuredProperty	1086	1093	T5-12	density	{"HasQuantity": "T5-11"}
+S175058361300203X-1240	5	MeasuredEntity	1082	1085	T5-13	CO2	{"HasProperty": "T5-12"}
+S175058361300203X-1240	6	Quantity	1139	1144	T6-14	38 °C	{"unit": "\u00b0C"}
+S175058361300203X-1240	6	MeasuredEntity	1122	1137	T6-15	injection point	{"HasQuantity": "T6-14"}
+S175058361300203X-1240	7	Quantity	1149	1160	T7-16	autumn 2009	{"unit": "2009"}
+S175058361300203X-1240	7	MeasuredEntity	1122	1137	T7-17	injection point	{"HasQuantity": "T7-16"}
+S175058361300203X-1240	8	Quantity	1177	1191	T8-18	near 320 kg/m3	{"unit": "g/m3", "mods": ["IsApproximate"]}
+S175058361300203X-1240	8	MeasuredEntity	1199	1229	T8-19	more distant part of the plume	{"HasQuantity": "T8-18"}
+S175058361300203X-1240	9	Quantity	1265	1270	T9-20	34 °C	{"unit": "\u00b0C"}
+S175058361300203X-1240	9	MeasuredProperty	1244	1263	T9-21	ambient temperature	{"HasQuantity": "T9-20"}
+S0960148113005727-1203	0	Quantity	408	410	T0-0	3%	{"unit": "%"}
+S0960148113005727-1203	0	MeasuredProperty	411	419	T0-1	increase	{"HasQuantity": "T0-0"}
+S0960148113005727-1203	0	MeasuredEntity	423	443	T0-2	turbulence intensity	{"HasProperty": "T0-1"}
+S0960148113005727-1203	1	Quantity	401	403	T1-3	1%	{"unit": "%"}
+S0960148113005727-1203	1	MeasuredEntity	423	443	T1-4	turbulence intensity	{"HasQuantity": "T1-3"}
+S0960148113005727-1203	2	Quantity	390	394	T2-5	2–5%	{"unit": "%"}
+S0960148113005727-1203	2	MeasuredProperty	380	386	T2-6	output	{"HasQuantity": "T2-5"}
+S016412121300188X-3207	0	Quantity	343	346	T0-0	89%	{"unit": "%"}
+S016412121300188X-3207	0	MeasuredEntity	354	362	T0-1	programs	{"HasQuantity": "T0-0"}
+S016412121300188X-3207	1	Quantity	425	436	T1-2	10% or more	{"unit": "or more", "mods": ["IsRange"]}
+S016412121300188X-3207	1	MeasuredEntity	444	464	T1-3	program's statements	{"HasProperty": "T1-4"}
+S016412121300188X-3207	1	MeasuredProperty	394	412	T1-4	dependence cluster	{"HasQuantity": "T1-2"}
+S016412121300188X-3207	2	Quantity	540	553	T2-5	more than 10%	{"unit": "%", "mods": ["IsRange"]}
+S016412121300188X-3207	2	MeasuredEntity	528	536	T2-6	clusters	{"HasQuantity": "T2-5"}
+S016412121300188X-3207	3	Quantity	511	517	T3-7	20KLoC	{"unit": "KLoC"}
+S016412121300188X-3207	3	MeasuredProperty	470	482	T3-8	average size	{"HasQuantity": "T3-7"}
+S016412121300188X-3207	3	MeasuredEntity	490	498	T3-9	programs	{"HasProperty": "T3-8"}
+S016412121300188X-3207	4	Quantity	640	643	T4-10	40%	{"unit": "%"}
+S016412121300188X-3207	4	MeasuredEntity	651	659	T4-11	programs	{"HasProperty": "T4-12"}
+S016412121300188X-3207	4	MeasuredProperty	666	684	T4-12	dependence cluster	{"HasQuantity": "T4-10"}
+S037842901300244X-1801	0	Quantity	414	425	T0-0	three weeks	{"unit": "weeks"}
+S037842901300244X-1801	0	MeasuredEntity	392	404	T0-1	S1 progenies	{"HasProperty": "T0-2"}
+S037842901300244X-1801	0	MeasuredProperty	405	413	T0-2	flowered	{"HasQuantity": "T0-0"}
+S037842901300244X-1801	1	Quantity	575	584	T1-4	484 g m−2	{"unit": "m\u22122"}
+S037842901300244X-1801	1	MeasuredProperty	560	573	T1-5	panicle yield	{"HasQuantity": "T1-4"}
+S0016236113008041-3257	0	Quantity	476	481	T0-0	13 kg	{"unit": "kg"}
+S0016236113008041-3257	0	MeasuredEntity	482	499	T0-1	sample of sorbent	{"HasQuantity": "T0-0"}
+S0016236113008041-3257	1	Quantity	380	385	T1-2	0.67%	{"unit": "%"}
+S0016236113008041-3257	1	MeasuredEntity	301	317	T1-3	unreacted sample	{"HasProperty": "T1-4"}
+S0016236113008041-3257	1	MeasuredProperty	323	330	T1-4	weight%	{"HasQuantity": "T1-2"}
+S0016236113008041-3257	2	Quantity	334	338	T2-5	0.34	{}
+S0016236113008041-3257	2	MeasuredEntity	301	317	T2-6	unreacted sample	{"HasProperty": "T2-7"}
+S0016236113008041-3257	2	MeasuredProperty	323	330	T2-7	weight%	{"HasQuantity": "T2-5"}
+S0016236113008041-3257	3	Quantity	400	415	T3-8	4.5 kg and 6 kg	{"unit": "kg", "mods": ["IsRange"]}
+S0016236113008041-3257	3	MeasuredEntity	416	423	T3-9	samples	{"HasQuantity": "T3-8"}
+S0016236113008041-3257	4	Quantity	466	471	T4-10	3.98%	{"unit": "%"}
+S0016236113008041-3257	5	Quantity	390	395	T5-11	0.66%	{"unit": "%"}
+S0038071711004354-2389	0	Quantity	36	39	T0-0	two	{"mods": ["IsCount"]}
+S0038071711004354-2389	0	MeasuredEntity	40	63	T0-1	end-member mixing model	{"HasQuantity": "T0-0"}
+S0038071711004354-2389	1	Quantity	160	163	T1-2	56%	{"unit": "%"}
+S0038071711004354-2389	1	MeasuredEntity	137	158	T1-3	larger fraction of RS	{"HasQuantity": "T1-2"}
+S0038071711004354-2389	2	Quantity	253	256	T2-4	44%	{"unit": "%"}
+S0038071711004354-2389	2	MeasuredProperty	175	203	T2-5	heterotrophic component flux	{"HasQuantity": "T2-4"}
+S0038071711004354-2389	3	Quantity	103	109	T3-6	0.18 g	{"unit": "g"}
+S0038071711004354-2389	3	MeasuredProperty	83	99	T3-7	autotrophic flux	{"HasQuantity": "T3-6"}
+S0038071711004354-2389	4	Quantity	279	284	T4-8	three	{"mods": ["IsCount"]}
+S0038071711004354-2389	4	MeasuredEntity	285	301	T4-9	end-member model	{"HasQuantity": "T4-8"}
+S0022399913003358-956	0	Quantity	143	149	T0-0	1980's	{"unit": "s"}
+S0022399913003358-956	0	MeasuredEntity	59	116	T0-1	data for the widely cited National Study of Hearing (NSH)	{"HasProperty": "T0-2"}
+S0022399913003358-956	0	MeasuredProperty	126	135	T0-2	collected	{"HasQuantity": "T0-0"}
+S0022399913003358-956	1	Quantity	555	569	T1-3	40 to 69 years	{"unit": "years", "mods": ["IsRange"]}
+S0022399913003358-956	1	MeasuredEntity	540	549	T1-4	UK adults	{"HasProperty": "T1-5"}
+S0022399913003358-956	1	MeasuredProperty	550	554	T1-5	aged	{"HasQuantity": "T1-3"}
+S0960148113004989-2841	0	Quantity	216	225	T0-0	π/640 m−1	{"unit": "m\u22121"}
+S0960148113004989-2841	0	MeasuredProperty	227	229	T0-1	η0	{"HasQuantity": "T0-0"}
+S0960148113004989-2841	1	Quantity	266	267	T1-2	0	{}
+S0960148113004989-2841	1	MeasuredEntity	29	48	T1-3	analytical solution	{"HasProperty": "T1-4"}
+S0960148113004989-2841	1	MeasuredProperty	212	213	T1-4	k	{"HasQuantity": "T1-2"}
+S0960148113004989-2841	2	Quantity	286	296	T2-5	9.81 m s−2	{"unit": "m s\u22122"}
+S0960148113004989-2841	2	MeasuredEntity	29	48	T2-6	analytical solution	{"HasProperty": "T2-7"}
+S0960148113004989-2841	2	MeasuredProperty	282	283	T2-7	g	{"HasQuantity": "T2-5"}
+S0960148113004989-2841	3	Quantity	437	450	T3-8	640 m × 320 m	{"unit": "m"}
+S0960148113004989-2841	3	MeasuredEntity	419	428	T3-9	rectangle	{"HasProperty": "T3-10"}
+S0960148113004989-2841	3	MeasuredProperty	432	436	T3-10	size	{"HasQuantity": "T3-8"}
+S0960148113004989-2841	4	Quantity	274	280	T4-11	0.0025	{}
+S0960148113004989-2841	4	MeasuredEntity	29	48	T4-12	analytical solution	{"HasProperty": "T4-13"}
+S0960148113004989-2841	4	MeasuredProperty	269	271	T4-13	cb	{"HasQuantity": "T4-11"}
+S0960148113004989-2841	5	Quantity	251	259	T5-14	3 m2 s−1	{"unit": "s\u22121"}
+S0960148113004989-2841	5	MeasuredEntity	29	48	T5-15	analytical solution	{"HasProperty": "T5-16"}
+S0960148113004989-2841	5	MeasuredProperty	247	248	T5-16	ν	{"HasQuantity": "T5-14"}
+S0960148113004989-2841	6	Quantity	232	235	T6-17	2 m	{"unit": "m"}
+S0960148113004989-2841	6	MeasuredEntity	29	48	T6-18	analytical solution	{"HasProperty": "T6-19"}
+S0960148113004989-2841	6	MeasuredProperty	227	229	T6-19	η0	{"HasQuantity": "T6-17"}
+S0960148113004989-2841	7	Quantity	326	332	T7-20	≈28.9s	{"unit": "s", "mods": ["IsApproximate"]}
+S0960148113004989-2841	7	MeasuredEntity	29	48	T7-21	analytical solution	{"HasQuantity": "T7-20"}
+S0960148113004989-2841	8	Quantity	241	245	T8-22	50 m	{"unit": "m"}
+S0967064513002774-1376	0	Quantity	68	81	T0-0	within 220 mL	{"unit": "220 mL", "mods": ["IsRange"]}
+S0967064513002774-1376	0	MeasuredEntity	82	101	T0-1	incubation chambers	{"HasQuantity": "T0-0"}
+S0967064513002774-1376	1	Quantity	75	81	T1-2	220 mL	{"unit": "mL"}
+S0967064513002774-1376	1	MeasuredEntity	82	101	T1-3	incubation chambers	{"HasQuantity": "T1-2"}
+S0967064513002774-1376	2	Quantity	411	414	T2-4	2 h	{"unit": "h"}
+S0967064513002774-1376	2	MeasuredEntity	312	320	T2-5	Chambers	{"HasProperty": "T2-6"}
+S0967064513002774-1376	2	MeasuredProperty	379	406	T2-6	acclimate to the conditions	{"HasQuantity": "T2-4"}
+S0967064513002774-1376	3	Quantity	416	419	T3-7	Ten	{"mods": ["IsCount"]}
+S0967064513002774-1376	3	MeasuredEntity	420	428	T3-8	chambers	{"HasQuantity": "T3-7"}
+S0967064513002774-1376	4	Quantity	496	497	T4-9	2	{}
+S0967064513002774-1376	4	MeasuredEntity	632	638	T4-10	corals	{"HasQuantity": "T4-9"}
+S0967064513002774-1376	5	Quantity	656	660	T5-11	48 h	{"unit": "h"}
+S0967064513002774-1376	5	MeasuredEntity	632	638	T5-12	corals	{"HasProperty": "T5-13"}
+S0967064513002774-1376	5	MeasuredProperty	644	651	T5-13	not fed	{"HasQuantity": "T5-11"}
+S0967064513002774-1376	6	Quantity	473	474	T6-14	8	{"mods": ["IsCount"]}
+S0967064513002774-1376	6	MeasuredEntity	420	428	T6-15	chambers	{"HasQuantity": "T6-14"}
+S0967064513002774-1376	7	Quantity	755	761	T7-16	40-min	{"unit": "min"}
+S0967064513002774-1376	7	MeasuredProperty	762	768	T7-17	period	{"HasQuantity": "T7-16"}
+S0967064513002774-1376	8	Quantity	832	841	T8-18	below 80%	{"unit": "%", "mods": ["IsRange"]}
+S0967064513002774-1376	8	MeasuredEntity	801	818	T8-19	oxygen saturation	{"HasQuantity": "T8-18"}
+S0967064513002774-1376	9	Quantity	919	925	T9-20	−20 °C	{"unit": "\u00b0C"}
+S0967064513002774-1376	9	MeasuredEntity	879	888	T9-21	fragments	{"HasProperty": "T9-22"}
+S0967064513002774-1376	9	MeasuredProperty	906	915	T9-22	preserved	{"HasQuantity": "T9-20"}
+S0378383912000130-3726	0	Quantity	19	25	T0-0	8.5 mm	{"unit": "mm"}
+S0378383912000130-3726	0	MeasuredEntity	26	31	T0-1	beach	{"HasQuantity": "T0-0"}
+S2213671113000738-667	0	Quantity	383	388	T0-0	48 hr	{"unit": "hr"}
+S2213671113000738-667	0	MeasuredEntity	345	361	T0-1	interferon gamma	{"HasQuantity": "T0-0"}
+S2213671113000738-667	1	Quantity	370	378	T1-2	25 ng/ml	{"unit": "ng/ml"}
+S2213671113000738-667	1	MeasuredEntity	345	361	T1-3	interferon gamma	{"HasProperty": "T1-4"}
+S2213671113000738-667	1	MeasuredProperty	363	368	T1-4	IFN-γ	{"HasQuantity": "T1-2"}
+S2213671113000738-667	2	Quantity	440	459	T2-5	approximately 1:100	{"unit": "1:100", "mods": ["IsApproximate"]}
+S2213671113000738-667	2	MeasuredProperty	406	422	T2-6	expression level	{"HasQuantity": "T2-5"}
+S2213671113000738-667	2	MeasuredEntity	430	435	T2-7	mRNAs	{"HasProperty": "T2-6"}
+S2213158213000582-1279	0	Quantity	241	244	T0-0	9 s	{"unit": "s"}
+S2213158213000582-1279	0	MeasuredProperty	183	210	T0-2	inter-trial interval jitter	{"HasQuantity": "T0-0"}
+S2213158213000582-1279	1	Quantity	358	363	T1-3	35 dB	{"unit": "dB"}
+S2213158213000582-1279	1	MeasuredProperty	316	330	T1-4	peak intensity	{"HasQuantity": "T1-3"}
+S2213158213000582-1279	1	MeasuredEntity	338	343	T1-5	click	{"HasProperty": "T1-4"}
+S2213158213000582-1279	2	Quantity	415	418	T2-6	150	{"mods": ["IsCount"]}
+S2213158213000582-1279	2	MeasuredEntity	86	101	T2-7	binaural clicks	{"HasQuantity": "T2-6"}
+S2213158213000582-1279	3	Quantity	462	486	T3-8	approximately 25 minutes	{"unit": "minutes", "mods": ["IsApproximate"]}
+S2213158213000582-1279	3	MeasuredProperty	437	445	T3-9	duration	{"HasQuantity": "T3-8"}
+S2213158213000582-1279	4	Quantity	556	569	T4-10	50 and 100 ms	{"unit": "ms", "mods": ["IsRange"]}
+S2213158213000582-1279	4	MeasuredEntity	541	552	T4-11	S1 activity	{"HasQuantity": "T4-10"}
+S2213158213000582-1279	5	Quantity	143	149	T5-12	500 ms	{"unit": "ms"}
+S2213158213000582-1279	5	MeasuredProperty	150	173	T5-13	inter-stimulus interval	{"HasQuantity": "T5-12"}
+S2213158213000582-1279	6	Quantity	211	229	T6-14	between 7 and 11 s	{"unit": "s", "mods": ["IsRange"]}
+S2213158213000582-1279	6	MeasuredProperty	183	210	T6-16	inter-trial interval jitter	{"HasQuantity": "T6-14"}
+S2213158213000582-1279	7	Quantity	81	85	T7-17	3 ms	{"unit": "ms"}
+S2213158213000582-1279	7	MeasuredEntity	86	101	T7-18	binaural clicks	{"HasQuantity": "T7-17"}
+S0032386113005454-2886	0	Quantity	1118	1144	T0-0	between −55 °C and −109 °C	{"unit": "\u00b0C", "mods": ["IsRange"]}
+S0032386113005454-2886	0	MeasuredEntity	1101	1117	T0-1	test temperature	{"HasQuantity": "T0-0"}
+S0019103512003533-5211	0	Quantity	451	457	T0-0	10 keV	{"unit": "keV"}
+S0019103512003533-5211	1	Quantity	356	359	T1-2	78°	{"unit": "\u00b0"}
+S0019103512003533-5211	1	MeasuredProperty	347	355	T1-3	latitude	{"HasQuantity": "T1-2"}
+S0019103512003533-5211	2	Quantity	332	341	T2-4	10−5 mbar	{"unit": "mbar"}
+S0019103512003533-5211	2	MeasuredProperty	300	330	T2-5	peak ionospheric density level	{"HasQuantity": "T2-4"}
+S0019103512003533-5211	3	Quantity	623	635	T3-6	within ±50 K	{"unit": "K", "mods": ["IsRange"]}
+S0019103512003533-5211	3	MeasuredProperty	575	587	T3-7	temperatures	{"HasQuantity": "T3-6"}
+S0019103512003533-5211	3	MeasuredEntity	636	667	T3-8	exospheric and H3+ temperatures	{"HasProperty": "T3-7"}
+S0019103512003533-5211	4	Quantity	863	869	T4-9	10 keV	{"unit": "keV"}
+S0019103512003533-5211	4	MeasuredProperty	870	890	T4-10	electron energy flux	{"HasQuantity": "T4-9"}
+S0019103512003533-5211	5	Quantity	805	810	T5-11	⩽10 K	{"unit": "K", "mods": ["IsApproximate"]}
+S0019103512003533-5211	5	MeasuredProperty	782	801	T5-12	temperature changes	{"HasQuantity": "T5-11"}
+S0032063312000487-1141	0	Quantity	536	539	T0-0	76%	{"unit": "%"}
+S0032063312000487-1141	0	MeasuredProperty	460	488	T0-1	suggest tailward propagation	{"HasQuantity": "T0-0"}
+S0032063312000487-1141	0	MeasuredEntity	547	566	T0-2	dusk side crossings	{"HasProperty": "T0-1"}
+S0032063312000487-1141	1	Quantity	501	504	T1-3	77%	{"unit": "%"}
+S0032063312000487-1141	1	MeasuredProperty	460	488	T1-4	suggest tailward propagation	{"HasQuantity": "T1-3"}
+S0032063312000487-1141	1	MeasuredEntity	512	531	T1-5	dawn side crossings	{"HasProperty": "T1-4"}
+S0032063312000487-1141	2	Quantity	872	875	T2-6	89%	{"unit": "%"}
+S0032063312000487-1141	2	MeasuredEntity	883	892	T2-7	crossings	{"HasProperty": "T2-8"}
+S0032063312000487-1141	2	MeasuredProperty	893	921	T2-8	suggest tailward propagation	{"HasQuantity": "T2-6"}
+S0032063312000487-1141	3	Quantity	969	972	T3-9	86%	{"unit": "%"}
+S0032063312000487-1141	3	MeasuredProperty	893	921	T3-10	suggest tailward propagation	{"HasQuantity": "T3-9"}
+S0032063312000487-1141	3	MeasuredEntity	980	999	T3-11	dusk side crossings	{"HasProperty": "T3-10"}
+S0032063312000487-1141	4	Quantity	934	937	T4-12	94%	{"unit": "%"}
+S0032063312000487-1141	4	MeasuredProperty	893	921	T4-13	suggest tailward propagation	{"HasQuantity": "T4-12"}
+S0032063312000487-1141	4	MeasuredEntity	945	964	T4-14	dawn side crossings	{"HasProperty": "T4-13"}
+S0167739X12001525-6016	0	Quantity	473	477	T0-0	Five	{"mods": ["IsCount"]}
+S0167739X12001525-6016	0	MeasuredEntity	491	500	T0-1	scenarios	{"HasQuantity": "T0-0"}
+S0167739X12001525-6016	1	Quantity	381	390	T1-2	below 10%	{"unit": "%", "mods": ["IsRange"]}
+S0167739X12001525-6016	1	MeasuredProperty	326	355	T1-3	executed reallocation actions	{"HasQuantity": "T1-2"}
+S0167739X12001525-6016	1	MeasuredEntity	365	374	T1-4	scenarios	{"HasProperty": "T1-3"}
+S0167739X12001525-6016	2	Quantity	430	435	T2-5	19.8%	{"unit": "%"}
+S0167739X12001525-6016	2	MeasuredProperty	410	426	T2-6	executes actions	{"HasQuantity": "T2-5"}
+S0167739X12001525-6016	2	MeasuredEntity	397	409	T2-7	Scenario 2.7	{"HasProperty": "T2-6"}
+S0167739X12001525-6016	3	Quantity	485	490	T3-8	eight	{"mods": ["IsCount"]}
+S0167739X12001525-6016	3	MeasuredEntity	491	500	T3-9	scenarios	{"HasQuantity": "T3-8"}
+S0167739X12001525-6016	4	Quantity	506	514	T4-10	below 5%	{"unit": "%", "mods": ["IsRange"]}
+S0167739X12001525-6016	4	MeasuredEntity	491	500	T4-11	scenarios	{"HasQuantity": "T4-10"}
+S2213158213001253-2433	0	Quantity	20	25	T0-0	three	{"mods": ["IsCount"]}
+S2213158213001253-2433	0	MeasuredEntity	26	37	T0-1	classifiers	{"HasQuantity": "T0-0"}
+S2213158213001253-2433	1	Quantity	319	323	T1-2	0.90	{}
+S2213158213001253-2433	1	MeasuredEntity	268	287	T1-3	combined classifier	{"HasQuantity": "T1-2"}
+S2213158213001253-2433	2	Quantity	328	332	T2-4	0.89	{}
+S2213158213001253-2433	2	MeasuredEntity	268	287	T2-5	combined classifier	{"HasQuantity": "T2-4"}
+S2213158213001253-2433	3	Quantity	624	628	T3-6	100%	{"unit": "%"}
+S2213158213001253-2433	3	MeasuredEntity	530	540	T3-7	classifier	{"HasProperty": "T3-8"}
+S2213158213001253-2433	3	MeasuredProperty	593	612	T3-8	false positive rate	{"HasQuantity": "T3-6"}
+S2213158213001253-2433	4	Quantity	613	628	T4-9	approached 100%	{"unit": "%", "mods": ["IsRange"]}
+S2213158213001253-2433	4	MeasuredEntity	530	540	T4-10	classifier	{"HasProperty": "T4-11"}
+S2213158213001253-2433	4	MeasuredProperty	593	612	T4-11	false positive rate	{"HasQuantity": "T4-9"}
+S2213158213001253-2433	5	Quantity	708	710	T5-12	0%	{"unit": "%"}
+S2213158213001253-2433	5	MeasuredEntity	690	693	T5-13	ROC	{"HasProperty": "T5-14"}
+S2213158213001253-2433	5	MeasuredProperty	711	730	T5-14	false positive rate	{"HasQuantity": "T5-12"}
+S2211124713006475-741	0	Quantity	36	41	T0-0	50 μm	{"unit": "\u03bcm"}
+S2211124713006475-741	0	MeasuredEntity	0	10	T0-1	Scale bars	{"HasQuantity": "T0-0"}
+S0257897213007573-899	0	Quantity	141	153	T0-0	~ 1354 cm− 1	{"unit": "1354 cm\u2212 1", "mods": ["IsApproximate"]}
+S0257897213007573-899	1	Quantity	712	716	T1-1	1.32	{}
+S0257897213007573-899	1	MeasuredEntity	666	700	T1-2	integrated intensity ratio (ID/IG)	{"HasQuantity": "T1-1"}
+S0257897213007573-899	2	Quantity	754	761	T2-3	3.75 nm	{"unit": "nm"}
+S0257897213007573-899	2	MeasuredEntity	738	750	T2-4	increased La	{"HasQuantity": "T2-3"}
+S2213158213000582-1050	0	Quantity	143	160	T0-0	from 30 to 130 ms	{"unit": "ms", "mods": ["IsRange"]}
+S2213158213000582-1050	0	MeasuredEntity	122	142	T0-1	whole-brain measures	{"HasQuantity": "T0-0"}
+S0301010413004096-767	0	Quantity	145	168	T0-0	between ∼−2 and 500 meV	{"unit": "eV", "mods": ["IsApproximate"]}
+S0301010413004096-767	0	MeasuredProperty	128	144	T0-1	energy transfers	{"HasQuantity": "T0-0"}
+S0301010413004096-767	0	MeasuredEntity	33	51	T0-2	TOSCA spectrometer	{"HasProperty": "T0-1"}
+S0301010413004096-767	1	Quantity	211	214	T1-3	∼1%	{"unit": "%", "mods": ["IsApproximate"]}
+S0301010413004096-767	1	MeasuredEntity	185	190	T1-4	TOSCA	{"HasProperty": "T1-5"}
+S0301010413004096-767	1	MeasuredProperty	197	207	T1-5	resolution	{"HasQuantity": "T1-3"}
+S0301010413004096-767	2	Quantity	256	262	T2-6	∼2.5 g	{"unit": "g", "mods": ["IsApproximate"]}
+S0301010413004096-767	2	MeasuredEntity	225	254	T2-7	sample of desolvated NOTT-300	{"HasQuantity": "T2-6"}
+S0301010413004096-767	3	Quantity	387	396	T3-8	10−7 mbar	{"unit": "mbar"}
+S0301010413004096-767	3	MeasuredEntity	364	370	T3-9	sample	{"HasProperty": "T3-10"}
+S0301010413004096-767	3	MeasuredProperty	375	383	T3-10	degassed	{"HasQuantity": "T3-8"}
+S0301010413004096-767	4	Quantity	401	407	T4-11	120 °C	{"unit": "\u00b0C"}
+S0301010413004096-767	4	MeasuredEntity	364	370	T4-12	sample	{"HasProperty": "T4-13"}
+S0301010413004096-767	4	MeasuredProperty	375	383	T4-13	degassed	{"HasQuantity": "T4-11"}
+S0301010413004096-767	5	Quantity	412	417	T5-14	1 day	{"unit": "day"}
+S0301010413004096-767	5	MeasuredEntity	364	370	T5-15	sample	{"HasProperty": "T5-16"}
+S0301010413004096-767	5	MeasuredProperty	375	383	T5-16	degassed	{"HasQuantity": "T5-14"}
+S0301010413004096-767	6	Quantity	579	588	T6-17	5 ± 0.2 K	{"unit": "K", "mods": ["HasTolerance"]}
+S0301010413004096-767	6	MeasuredProperty	468	479	T6-18	temperature	{"HasQuantity": "T6-17"}
+S0301010413004096-767	7	Quantity	615	620	T7-19	99.5%	{"unit": "%"}
+S0301010413004096-767	7	MeasuredEntity	606	613	T7-20	para-H2	{"HasQuantity": "T7-19"}
+S0301010413004096-767	8	Quantity	654	661	T8-21	40–50 K	{"unit": "K", "mods": ["IsRange"]}
+S0301010413004096-767	8	MeasuredEntity	606	613	T8-22	para-H2	{"HasQuantity": "T8-21"}
+S0301010413004096-767	9	Quantity	762	765	T9-23	5 K	{"unit": "K"}
+S0301010413004096-767	9	MeasuredProperty	735	746	T9-24	temperature	{"HasQuantity": "T9-23"}
+S1873506114000075-1104	0	Quantity	101	104	T0-0	10%	{"unit": "%"}
+S1873506114000075-1104	0	MeasuredEntity	105	139	T0-1	neutral buffered formalin solution	{"HasQuantity": "T0-0"}
+S0378383912000130-1090	0	Quantity	205	211	T0-0	8.5 mm	{"unit": "mm"}
+S0378383912000130-1090	0	MeasuredEntity	212	217	T0-1	beach	{"HasQuantity": "T0-0"}
+S0168945213001805-5396	0	Quantity	761	782	T0-0	more than two decades	{"unit": "s", "mods": ["IsRange"]}
+S0168945213001805-5396	0	MeasuredEntity	703	708	T0-1	trees	{"HasProperty": "T0-2"}
+S0168945213001805-5396	0	MeasuredProperty	786	798	T0-2	transgenesis	{"HasQuantity": "T0-0"}
+S0168945213001805-5396	1	Quantity	689	698	T1-3	>10-year-	{"unit": "-year-", "mods": ["IsRange"]}
+S0168945213001805-5396	1	MeasuredProperty	698	701	T1-4	old	{"HasQuantity": "T1-3"}
+S0168945213001805-5396	1	MeasuredEntity	703	708	T1-5	trees	{"HasProperty": "T1-4"}
+S0168945213001805-5396	2	Quantity	1418	1425	T2-6	19-year	{"unit": "year"}
+S0168945213001805-5396	2	MeasuredProperty	1426	1429	T2-7	old	{"HasQuantity": "T2-6"}
+S0168945213001805-5396	2	MeasuredEntity	1430	1445	T2-8	tissue cultures	{"HasProperty": "T2-7"}
+S0168945213001805-5396	3	Quantity	1450	1458	T3-9	18-year-	{"unit": "-year-"}
+S0168945213001805-5396	3	MeasuredProperty	1458	1461	T3-10	old	{"HasQuantity": "T3-9"}
+S0168945213001805-5396	3	MeasuredEntity	1462	1484	T3-11	glasshouse-grown trees	{"HasProperty": "T3-10"}
+S0168945213001805-5396	4	Quantity	1418	1426	T4-12	19-year-	{"unit": "-year-"}
+S0168945213001805-5396	4	MeasuredProperty	1426	1429	T4-13	old	{"HasQuantity": "T4-12"}
+S0168945213001805-5396	4	MeasuredEntity	1430	1445	T4-14	tissue cultures	{"HasProperty": "T4-13"}
+S0168945213001805-5396	5	Quantity	1925	1928	T5-15	40%	{"unit": "%"}
+S0168945213001805-5396	5	MeasuredProperty	1929	1935	T5-16	taller	{"HasQuantity": "T5-15"}
+S0168945213001805-5396	5	MeasuredEntity	1860	1887	T5-17	Transgenic poplar (P. alba)	{"HasProperty": "T5-16"}
+S0378383913001567-7073	0	Quantity	172	180	T0-0	1,2,…,10	{}
+S0378383913001567-7073	0	MeasuredProperty	168	169	T0-1	i	{"HasQuantity": "T0-0"}
+S0378383913001567-7073	1	Quantity	332	336	T1-2	2.33	{}
+S0378383913001567-7073	2	Quantity	158	163	T2-4	0.2 m	{"unit": "m"}
+S0378383913001567-7073	2	MeasuredProperty	153	155	T2-5	∆t	{"HasQuantity": "T2-4"}
+S0022000014000026-12523	0	Quantity	1341	1342	T0-0	1	{}
+S0167577X13006393-801	0	Quantity	237	252	T0-0	less than 10 nm	{"unit": "nm", "mods": ["IsRange"]}
+S0167577X13006393-801	0	MeasuredEntity	171	174	T0-1	XPS	{"HasProperty": "T0-2"}
+S0167577X13006393-801	0	MeasuredProperty	222	236	T0-2	analysis depth	{"HasQuantity": "T0-0"}
+S0167577X13006393-801	1	Quantity	1087	1100	T1-3	below 1200 °C	{"unit": "\u00b0C", "mods": ["IsRange"]}
+S0167577X13006393-801	1	MeasuredEntity	1064	1086	T1-4	sintering temperatures	{"HasQuantity": "T1-3"}
+S0167577X13006393-801	2	Quantity	1129	1139	T2-5	0.4 to 0.5	{"unit": "to 0.5", "mods": ["IsRange"]}
+S0167577X13006393-801	2	MeasuredProperty	1108	1125	T2-6	conversion degree	{"HasQuantity": "T2-5"}
+S0019103513005058-3189	0	Quantity	858	864	T0-0	−75 °C	{"unit": "\u00b0C"}
+S0019103513005058-3189	0	MeasuredProperty	765	779	T0-1	eutectic point	{"HasQuantity": "T0-0"}
+S0019103513005058-3189	0	MeasuredEntity	845	854	T0-2	Ca(ClO4)2	{"HasProperty": "T0-1"}
+S0019103513005058-3189	1	Quantity	796	802	T1-3	−57 °C	{"unit": "\u00b0C"}
+S0019103513005058-3189	1	MeasuredProperty	765	779	T1-4	eutectic point	{"HasQuantity": "T1-3"}
+S0019103513005058-3189	1	MeasuredEntity	783	792	T1-5	Mg(ClO4)2	{"HasProperty": "T1-4"}
+S0019103513005058-3189	2	Quantity	953	960	T2-6	∼0.02 g	{"unit": "g", "mods": ["IsApproximate"]}
+S0019103513005058-3189	2	MeasuredEntity	946	951	T2-7	water	{"HasProperty": "T2-8"}
+S0019103513005058-3189	2	MeasuredProperty	961	964	T2-8	H2O	{"HasQuantity": "T2-6"}
+S2213158213000582-1469	0	Quantity	318	324	T0-0	100 ms	{"unit": "ms"}
+S2213158213000582-1469	0	MeasuredProperty	325	338	T0-1	abnormalities	{"HasQuantity": "T0-0"}
+S2213158213000582-1469	0	MeasuredEntity	342	355	T0-2	schizophrenia	{"HasProperty": "T0-1"}
+S0927024813001955-812	0	Quantity	275	278	T0-0	two	{"mods": ["IsCount"]}
+S0927024813001955-812	0	MeasuredEntity	279	288	T0-1	solutions	{"HasQuantity": "T0-0"}
+S0927024813001955-812	1	Quantity	233	236	T1-2	2 h	{"unit": "h"}
+S0927024813001955-812	1	MeasuredEntity	212	216	T1-3	vial	{"HasProperty": "T1-4"}
+S0927024813001955-812	1	MeasuredProperty	221	228	T1-4	stirred	{"HasQuantity": "T1-2"}
+S0927024813001955-812	2	Quantity	240	247	T2-5	800 rpm	{"unit": "m"}
+S0927024813001955-812	2	MeasuredEntity	212	216	T2-6	vial	{"HasProperty": "T2-7"}
+S0927024813001955-812	2	MeasuredProperty	221	228	T2-7	stirred	{"HasQuantity": "T2-5"}
+S0927024813001955-812	3	Quantity	194	205	T3-8	41.73 mg/mL	{"unit": "mg/mL"}
+S0927024813001955-812	3	MeasuredProperty	177	190	T3-9	concentration	{"HasQuantity": "T3-8"}
+S0927024813001955-812	4	Quantity	252	257	T4-10	60 °C	{"unit": "\u00b0C"}
+S0019103512003533-3908	0	Quantity	259	264	T0-0	0.125	{}
+S0019103512003533-3908	0	MeasuredProperty	249	255	T0-1	factor	{"HasQuantity": "T0-0"}
+S0019103512003533-3908	1	Quantity	342	358	T1-2	1 × 10−9 cm3 s−1	{"unit": "s\u22121"}
+S0019103512003533-3908	1	MeasuredProperty	337	339	T1-3	k1	{"HasQuantity": "T1-2"}
+S0019103512003533-3908	2	Quantity	325	333	T2-4	2 × 10−9	{"unit": "\u00d7 10\u22129"}
+S2213158213000582-1041	0	Quantity	10	23	T0-0	50 and 100 ms	{"unit": "ms", "mods": ["IsRange"]}
+S2213158213000582-1041	0	MeasuredEntity	24	36	T0-1	STG activity	{"HasQuantity": "T0-0"}
+S2213158213000582-1041	1	Quantity	92	105	T1-2	50 and 100 ms	{"unit": "ms", "mods": ["IsRange"]}
+S2213158213000582-1041	1	MeasuredEntity	66	68	T1-3	HC	{"HasProperty": "T1-4"}
+S2213158213000582-1041	1	MeasuredProperty	106	118	T1-4	STG activity	{"HasQuantity": "T1-2"}
+S0925443913001385-849	0	Quantity	289	303	T0-0	2, 5 and 10 μg	{"unit": "\u03bcg"}
+S0925443913001385-849	0	MeasuredEntity	308	318	T0-1	total RNAs	{"HasQuantity": "T0-0"}
+S0925443913001385-849	1	Quantity	264	269	T1-2	Three	{"mods": ["IsCount"]}
+S0925443913001385-849	2	Quantity	393	399	T2-3	835 μg	{"unit": "\u03bcg"}
+S0925443913001385-849	2	MeasuredEntity	370	391	T2-4	mitochondrial lysates	{"HasQuantity": "T2-3"}
+S0960148113002735-1989	0	Quantity	63	74	T0-0	time 1800 s	{"unit": "s", "mods": ["IsRange"]}
+S0960148113002735-1989	0	MeasuredEntity	91	98	T0-1	turbine	{"HasQuantity": "T0-0"}
+S0960148113002735-1989	1	Quantity	68	74	T1-2	1800 s	{"unit": "s"}
+S0960148113002735-1989	1	MeasuredEntity	91	98	T1-3	turbine	{"HasQuantity": "T1-2"}
+S0960148113002735-1989	2	Quantity	397	403	T2-4	1800 s	{"unit": "s"}
+S0960148113002735-1989	2	MeasuredEntity	376	393	T2-5	separate topology	{"HasQuantity": "T2-4"}
+S0960148113002735-1989	3	Quantity	365	368	T3-6	57%	{"unit": "%"}
+S0960148113002735-1989	3	MeasuredEntity	376	393	T3-7	separate topology	{"HasQuantity": "T3-6"}
+S0960148113002735-1989	4	Quantity	495	507	T4-8	until 2700 s	{"unit": "s", "mods": ["IsRange"]}
+S0960148113002735-1989	4	MeasuredProperty	466	479	T4-9	extract power	{"HasQuantity": "T4-8"}
+S0960148113002735-1989	4	MeasuredEntity	485	494	T4-10	turbine 4	{"HasProperty": "T4-9"}
+S0019103512003995-1237	0	Quantity	237	252	T0-0	2.23 × 1019 m−2	{"unit": "m\u22122"}
+S0019103512003995-1237	0	MeasuredProperty	189	203	T0-1	column density	{"HasQuantity": "T0-0"}
+S0019103512003995-1237	0	MeasuredEntity	207	222	T0-2	ground state C+	{"HasProperty": "T0-1"}
+S0019103512003995-1237	1	Quantity	312	323	T1-3	−6.6 km s−1	{"unit": "km s\u22121"}
+S0019103512003995-1237	1	MeasuredProperty	258	275	T1-4	relative velocity	{"HasQuantity": "T1-3"}
+S0019103512003995-1237	1	MeasuredEntity	283	286	T1-5	ISM	{"HasProperty": "T1-4"}
+S0019103512003995-1237	2	Quantity	388	399	T2-6	12.3 km s−1	{"unit": "km s\u22121"}
+S0019103512003995-1237	2	MeasuredProperty	332	358	T2-7	effective thermal velocity	{"HasQuantity": "T2-6"}
+S0019103512003995-1237	3	Quantity	607	613	T3-8	17,500	{"mods": ["IsCount"]}
+S0019103512003995-1237	3	MeasuredProperty	603	604	T3-9	R	{"HasQuantity": "T3-8"}
+S0019103512003995-1237	3	MeasuredEntity	545	559	T3-10	model profiles	{"HasProperty": "T3-9"}
+S0012821X13007309-1649	0	Quantity	510	512	T0-0	4‰	{"unit": "\u2030"}
+S0012821X13007309-1649	1	Quantity	650	654	T1-2	∼2 m	{"unit": "m", "mods": ["IsApproximate"]}
+S0012821X13007309-1649	1	MeasuredEntity	658	697	T1-3	finely interbedded shales and mudstones	{"HasQuantity": "T1-2"}
+S0012821X13007309-1649	2	Quantity	533	548	T2-4	−27.7 to −23.7‰	{"unit": "\u2030", "mods": ["IsRange"]}
+S0012821X13007309-1649	2	MeasuredProperty	513	531	T2-5	positive excursion	{"HasQuantity": "T2-4"}
+S0012821X13007309-1649	3	Quantity	754	771	T3-6	∼−23.5‰ to −27.5‰	{"unit": "\u2030", "mods": ["IsApproximate"]}
+S0012821X13007309-1649	3	MeasuredEntity	721	728	T3-7	δ13Corg	{"HasProperty": "T3-8"}
+S0012821X13007309-1649	3	MeasuredProperty	470	484	T3-8	negative shift	{"HasQuantity": "T3-6"}
+S0012821X13007309-1649	4	Quantity	460	464	T4-9	0.5‰	{"unit": "\u2030"}
+S0012821X13007309-1649	4	MeasuredEntity	721	728	T4-10	δ13Corg	{"HasProperty": "T4-11"}
+S0012821X13007309-1649	4	MeasuredProperty	465	484	T4-11	VPDB negative shift	{"HasQuantity": "T4-9"}
+S0012821X13007309-1649	5	Quantity	831	838	T5-12	∼3.52 m	{"unit": "m", "mods": ["IsApproximate"]}
+S0012821X13007309-1649	5	MeasuredProperty	777	795	T5-13	maximum enrichment	{"HasQuantity": "T5-12"}
+S0012821X13007309-1649	5	MeasuredEntity	844	849	T5-14	OAE 2	{"HasProperty": "T5-13"}
+S0012821X13007309-1649	6	Quantity	817	829	T6-15	1035.75 mbsf	{"unit": "mbsf"}
+S0012821X13007309-1649	6	MeasuredProperty	777	795	T6-16	maximum enrichment	{"HasQuantity": "T6-15"}
+S0012821X13007309-1649	6	MeasuredEntity	803	810	T6-17	δ13Corg	{"HasProperty": "T6-16"}
+S0038071711004354-2578	0	Quantity	235	240	T0-0	three	{"mods": ["IsCount"]}
+S0038071711004354-2578	0	MeasuredEntity	241	257	T0-2	end-member model	{"HasQuantity": "T0-0"}
+S0038071711004354-2578	1	Quantity	85	90	T1-3	30 cm	{"unit": "cm"}
+S0038071711004354-2578	1	MeasuredEntity	98	110	T1-5	soil profile	{"HasQuantity": "T1-3"}
+S016412121300188X-4207	0	Quantity	235	238	T0-0	37%	{"unit": "%"}
+S016412121300188X-4207	0	MeasuredEntity	192	205	T0-1	Program userv	{"HasProperty": "T0-2"}
+S016412121300188X-4207	0	MeasuredProperty	222	231	T0-2	deviation	{"HasQuantity": "T0-0"}
+S016412121300188X-4207	1	Quantity	158	161	T1-3	14%	{"unit": "%"}
+S016412121300188X-4207	1	MeasuredEntity	142	148	T1-4	slices	{"HasProperty": "T1-5"}
+S016412121300188X-4207	1	MeasuredProperty	162	168	T1-5	larger	{"HasQuantity": "T1-3"}
+S016412121300188X-4207	2	Quantity	541	543	T2-6	30	{"mods": ["IsCount"]}
+S016412121300188X-4207	2	MeasuredEntity	544	552	T2-7	programs	{"HasQuantity": "T2-6"}
+S0022459611006116-1200	0	Quantity	282	297	T0-0	from 5≤2θ/°≤120	{"unit": "5\u22642\u03b8/\u00b0\u2264120", "mods": ["IsRange"]}
+S0022459611006116-1200	0	MeasuredEntity	240	244	T0-1	data	{"HasProperty": "T0-2"}
+S0022459611006116-1200	0	MeasuredProperty	274	280	T0-2	period	{"HasQuantity": "T0-0"}
+S0022459611006116-1200	1	Quantity	318	333	T1-3	0.02° over 14 h	{"unit": "h"}
+S0022459611006116-1200	1	MeasuredProperty	305	314	T1-4	step size	{"HasQuantity": "T1-3"}
+S0378383912000130-1041	0	Quantity	94	111	T0-0	1.5 mm and 8.5 mm	{"unit": "mm", "mods": ["IsList"]}
+S0378383912000130-1041	0	MeasuredEntity	112	119	T0-1	beaches	{"HasQuantity": "T0-0"}
+S2213158213001253-2583	0	Quantity	2647	2659	T0-0	4 × 4 × 5 mm	{"unit": "mm"}
+S2213158213001253-2583	0	MeasuredProperty	2617	2627	T0-1	resolution	{"HasQuantity": "T0-0"}
+S2213158213001253-2583	0	MeasuredEntity	2635	2645	T0-2	fMRI scans	{"HasProperty": "T0-1"}
+S1873506114000075-665	0	Quantity	100	106	T0-0	100-mm	{"unit": "mm"}
+S1873506114000075-665	0	MeasuredEntity	107	113	T0-1	dishes	{"HasQuantity": "T0-0"}
+S1873506114000075-665	1	Quantity	586	592	T1-2	100 μm	{"unit": "\u03bcm"}
+S1873506114000075-665	1	MeasuredEntity	575	584	T1-3	Scale bar	{"HasQuantity": "T1-2"}
+S1873506114000075-665	2	Quantity	419	424	T2-4	50 μm	{"unit": "\u03bcm"}
+S1873506114000075-665	2	MeasuredEntity	408	417	T2-5	Scale bar	{"HasQuantity": "T2-4"}
+S2213158213000582-1309	0	Quantity	395	401	T0-0	500 ms	{"unit": "ms"}
+S2213158213000582-1309	0	MeasuredEntity	362	371	T0-1	S1 epochs	{"HasQuantity": "T0-0"}
+S2213158213000582-1309	1	Quantity	638	642	T1-3	0.77	{}
+S2213158213000582-1309	1	MeasuredProperty	634	635	T1-4	p	{"HasQuantity": "T1-3"}
+S2213158213000582-1309	2	Quantity	628	632	T2-5	0.30	{}
+S2213158213000582-1309	2	MeasuredProperty	620	625	T2-6	t(39)	{"HasQuantity": "T2-5"}
+S2213158213000582-1309	3	Quantity	511	514	T3-7	103	{"mods": ["IsCount"]}
+S2213158213000582-1309	3	MeasuredEntity	515	521	T3-8	trials	{"HasQuantity": "T3-7"}
+S0032063313003218-6078	0	Quantity	117	120	T0-0	3 h	{"unit": "h"}
+S0032063313003218-6078	0	MeasuredEntity	44	89	T0-1	transient magnetospheric compression scenario	{"HasProperty": "T0-2"}
+S0032063313003218-6078	0	MeasuredProperty	96	101	T0-2	lasts	{"HasQuantity": "T0-0"}
+S0167610513001001-1618	0	Quantity	140	150	T0-0	7.83 m s−1	{"unit": "m s\u22121"}
+S0167610513001001-1618	0	MeasuredEntity	126	130	T0-2	wind	{"HasProperty": "T0-3"}
+S0167610513001001-1618	0	MeasuredProperty	131	136	T0-3	speed	{"HasQuantity": "T0-0"}
+S0167610513001001-1618	1	Quantity	101	106	T1-4	180 m	{"unit": "m"}
+S0167610513001001-1618	1	MeasuredEntity	92	100	T1-5	midpoint	{"HasQuantity": "T1-4"}
+S0927024813002961-1322	0	Quantity	515	524	T0-0	about ±3%	{"unit": "%", "mods": ["HasTolerance"]}
+S0927024813002961-1322	0	MeasuredEntity	529	542	T0-1	CIGS and c-Si	{"HasQuantity": "T0-0"}
+S0927024813002961-1322	1	Quantity	547	559	T1-2	+10% to −20%	{"unit": "%", "mods": ["IsRange"]}
+S0927024813002961-1322	1	MeasuredEntity	564	576	T1-3	a-Si devices	{"HasQuantity": "T1-2"}
+S0167610513001001-858	0	Quantity	109	115	T0-0	60 min	{"unit": "min"}
+S0167610513001001-858	0	MeasuredEntity	40	61	T0-1	lidar error variances	{"HasProperty": "T0-3"}
+S0167610513001001-858	0	MeasuredProperty	98	105	T0-3	periods	{"HasQuantity": "T0-0"}
+S2213158213000582-1390	0	Quantity	23	28	T0-0	50 ms	{"unit": "ms"}
+S2213158213000582-1390	0	MeasuredEntity	0	19	T0-1	Group contrast maps	{"HasQuantity": "T0-0"}
+S2213158213000582-1390	1	Quantity	97	103	T1-2	< 0.05	{"unit": "0.05", "mods": ["IsRange"]}
+S2213158213000582-1390	1	MeasuredProperty	91	96	T1-3	FDR q	{"HasQuantity": "T1-2"}
+S2213158213000582-1390	2	Quantity	348	353	T2-4	50 ms	{"unit": "ms"}
+S2213158213000582-1390	2	MeasuredProperty	354	362	T2-5	activity	{"HasQuantity": "T2-4"}
+S2213158213000582-1390	3	Quantity	234	239	T3-6	50-ms	{"unit": "ms"}
+S2213158213000582-1390	3	MeasuredProperty	240	248	T3-7	activity	{"HasQuantity": "T3-6"}
+S0019103511004994-1607	0	Quantity	183	188	T0-0	50 km	{"unit": "km"}
+S0019103511004994-1607	0	MeasuredProperty	158	174	T0-1	minimum distance	{"HasQuantity": "T0-0"}
+S0019103511004994-1607	1	Quantity	331	334	T1-2	two	{"mods": ["IsCount"]}
+S0019103511004994-1607	1	MeasuredEntity	335	341	T1-3	flybys	{"HasQuantity": "T1-2"}
+S0019103511004994-1607	2	Quantity	465	469	T2-4	four	{"mods": ["IsCount"]}
+S0019103511004994-1607	2	MeasuredEntity	470	476	T2-5	panels	{"HasQuantity": "T2-4"}
+S0019103511004994-1607	3	Quantity	574	583	T3-6	about 75°	{"unit": "\u00b0", "mods": ["IsApproximate"]}
+S0019103511004994-1607	3	MeasuredProperty	526	552	T3-7	measured local pitch angle	{"HasQuantity": "T3-6"}
+S0019103511004994-1607	4	Quantity	554	558	T4-8	115°	{"unit": "\u00b0"}
+S0019103511004994-1607	4	MeasuredProperty	526	552	T4-9	measured local pitch angle	{"HasQuantity": "T4-8"}
+S0019103511004994-1607	5	Quantity	506	509	T5-10	two	{"mods": ["IsCount"]}
+S0019103511004994-1607	5	MeasuredEntity	510	516	T5-11	panels	{"HasQuantity": "T5-10"}
+S0019103511004994-1607	6	Quantity	1084	1104	T6-12	tens to hundreds keV	{"unit": "keV", "mods": ["IsRange"]}
+S0019103511004994-1607	6	MeasuredEntity	1069	1078	T6-13	electrons	{"HasQuantity": "T6-12"}
+S0257897213007573-959	0	Quantity	329	336	T0-0	0.22 nm	{"unit": "nm"}
+S0257897213007573-959	0	MeasuredEntity	262	312	T0-1	surface roughness RMS (root mean square roughness)	{"HasQuantity": "T0-0"}
+S0257897213007573-959	1	Quantity	865	877	T1-2	up to 100 nm	{"unit": "nm", "mods": ["IsRange"]}
+S0257897213007573-959	1	MeasuredEntity	846	864	T1-3	numerous nanopores	{"HasProperty": "T1-4"}
+S0257897213007573-959	1	MeasuredProperty	881	886	T1-4	width	{"HasQuantity": "T1-2"}
+S0257897213007573-959	2	Quantity	1058	1065	T2-5	1.46 nm	{"unit": "nm"}
+S0257897213007573-959	3	Quantity	1628	1636	T3-6	54.68 nm	{"unit": "nm"}
+S0257897213007573-959	3	MeasuredProperty	1580	1597	T3-7	surface roughness	{"HasQuantity": "T3-6"}
+S0257897213007573-959	3	MeasuredEntity	1640	1643	T3-8	RMS	{"HasProperty": "T3-7"}
+S0257897213007573-959	4	Quantity	1534	1558	T4-9	up to approximately 3 μm	{"unit": "\u03bcm", "mods": ["IsApproximate"]}
+S0257897213007573-959	4	MeasuredProperty	1562	1570	T4-10	diameter	{"HasQuantity": "T4-9"}
+S0257897213007573-959	4	MeasuredEntity	1514	1530	T4-11	carbon particles	{"HasProperty": "T4-10"}
+S0167880913001229-1323	0	Quantity	249	256	T0-0	0–10 cm	{"unit": "cm"}
+S0167880913001229-1323	0	MeasuredEntity	236	245	T0-1	SOC stock	{"HasProperty": "T0-2"}
+S0167880913001229-1323	0	MeasuredProperty	257	262	T0-2	depth	{"HasQuantity": "T0-0"}
+S0167880913001229-1323	1	Quantity	330	338	T1-3	20–40 cm	{"unit": "cm", "mods": ["IsRange"]}
+S0167880913001229-1323	1	MeasuredProperty	339	344	T1-4	depth	{"HasQuantity": "T1-3"}
+S0167880913001229-1323	1	MeasuredEntity	367	376	T1-5	SOC stock	{"HasProperty": "T1-4"}
+S0167880913001229-1323	2	Quantity	557	563	T2-6	< 0.05	{"unit": "0.05", "mods": ["IsRange"]}
+S0167880913001229-1323	2	MeasuredEntity	443	463	T2-7	positive correlation	{"HasProperty": "T2-8"}
+S0167880913001229-1323	2	MeasuredProperty	555	556	T2-8	p	{"HasQuantity": "T2-6"}
+S0167880913001229-1323	3	Quantity	549	553	T3-9	0.07	{}
+S0167880913001229-1323	3	MeasuredEntity	443	463	T3-10	positive correlation	{"HasProperty": "T3-11"}
+S0167880913001229-1323	3	MeasuredProperty	544	546	T3-11	r2	{"HasQuantity": "T3-9"}
+S0167880913001229-1323	4	Quantity	525	532	T4-12	0–10 cm	{"unit": "cm"}
+S0167880913001229-1323	4	MeasuredProperty	533	538	T4-13	depth	{"HasQuantity": "T4-12"}
+S0167880913001229-1323	4	MeasuredEntity	539	542	T4-14	SOC	{"HasProperty": "T4-13"}
+S1873506113001116-1456	0	Quantity	164	170	T0-0	100-ml	{"unit": "-ml"}
+S1873506113001116-1456	0	MeasuredEntity	171	182	T0-1	bioreactors	{"HasQuantity": "T0-0"}
+S1873506113001116-1456	1	Quantity	90	93	T1-2	two	{"mods": ["IsCount"]}
+S1873506113001116-1456	1	MeasuredEntity	94	122	T1-3	integration-free hiPSC lines	{"HasQuantity": "T1-2"}
+S1873506113001116-1456	2	Quantity	303	322	T2-4	after ~ 20 passages	{"unit": "passages", "mods": ["IsApproximate"]}
+S1873506113001116-1456	2	MeasuredEntity	188	193	T2-5	cells	{"HasQuantity": "T2-4"}
+S1873506113001116-1456	3	Quantity	841	843	T3-6	5%	{"unit": "%"}
+S1873506113001116-1456	3	MeasuredProperty	823	832	T3-7	frequency	{"HasQuantity": "T3-6"}
+S1873506113001116-1456	3	MeasuredEntity	847	881	T3-8	tested batches of hiPSCs and hESCs	{"HasProperty": "T3-7"}
+S0257897213007573-555	0	Quantity	121	128	T0-0	1000 °C	{"unit": "\u00b0C"}
+S0257897213007573-555	0	MeasuredEntity	98	117	T0-1	silica tube furnace	{"HasQuantity": "T0-0"}
+S2213671113000921-756	0	Quantity	69	75	T0-0	200 μm	{"unit": "\u03bcm"}
+S2213671113000921-756	0	MeasuredEntity	48	57	T0-1	scale bar	{"HasQuantity": "T0-0"}
+S0168945213001805-4574	0	Quantity	454	457	T0-0	50%	{"unit": "%"}
+S0168945213001805-4574	0	MeasuredEntity	480	490	T0-1	greenhouse	{"HasProperty": "T0-2"}
+S0168945213001805-4574	0	MeasuredProperty	458	472	T0-2	mortality rate	{"HasQuantity": "T0-0"}
+S0019103512002801-2075	0	Quantity	162	184	T0-0	between 20 and 100 keV	{"unit": "keV", "mods": ["IsRange"]}
+S0019103512002801-2075	0	MeasuredEntity	152	161	T0-1	electrons	{"HasQuantity": "T0-0"}
+S0019103512002801-2075	1	Quantity	139	147	T1-2	15–35 km	{"unit": "km", "mods": ["IsRange"]}
+S0019103512002801-2075	1	MeasuredProperty	129	137	T1-3	diameter	{"HasQuantity": "T1-2"}
+S0960148113005727-1451	0	Quantity	395	404	T0-0	12 and 17	{"mods": ["IsRange"]}
+S0960148113005727-1451	0	MeasuredEntity	270	283	T0-1	Blyth Harbour	{"HasQuantity": "T0-0"}
+S0960148113005727-1451	1	Quantity	434	437	T1-2	one	{"mods": ["IsCount"]}
+S0960148113005727-1451	1	MeasuredEntity	450	458	T1-3	turbines	{"HasQuantity": "T1-2"}
+S0960148113005727-1451	2	Quantity	445	449	T2-4	nine	{"mods": ["IsCount"]}
+S0960148113005727-1451	2	MeasuredEntity	450	458	T2-5	turbines	{"HasQuantity": "T2-4"}
+S0019103512002801-1781	0	Quantity	123	129	T0-0	≈ 170°	{"unit": "\u00b0", "mods": ["IsApproximate"]}
+S0019103512002801-1781	0	MeasuredEntity	67	76	T0-1	electrons	{"HasProperty": "T0-2"}
+S0019103512002801-1781	0	MeasuredProperty	109	122	T0-2	pitch angle α	{"HasQuantity": "T0-0"}
+S0019103512002801-1781	1	Quantity	94	102	T1-3	≈ 90 keV	{"unit": "keV", "mods": ["IsApproximate"]}
+S0019103512002801-1781	1	MeasuredEntity	67	76	T1-4	electrons	{"HasProperty": "T1-5"}
+S0019103512002801-1781	1	MeasuredProperty	85	93	T1-5	energy E	{"HasQuantity": "T1-3"}
+S0019103512002801-1781	2	Quantity	398	402	T2-6	170°	{"unit": "\u00b0"}
+S0019103512002801-1781	2	MeasuredEntity	403	424	T2-7	pitch angle electrons	{"HasQuantity": "T2-6"}
+S0019103512002801-1781	3	Quantity	431	441	T3-8	about 15 s	{"unit": "s", "mods": ["IsApproximate"]}
+S0019103512002801-1781	3	MeasuredProperty	387	393	T3-9	bounce	{"HasQuantity": "T3-8"}
+S0019103512002801-1781	4	Quantity	537	543	T4-10	≈ 170°	{"unit": "\u00b0", "mods": ["IsApproximate"]}
+S0019103512002801-1781	4	MeasuredEntity	489	500	T4-11	pitch angle	{"HasProperty": "T4-12"}
+S0019103512002801-1781	4	MeasuredProperty	535	536	T4-12	α	{"HasQuantity": "T4-10"}
+S0021979713004438-2004	0	Quantity	1140	1162	T0-0	from 38 MPa to 185 MPa	{"unit": "MPa", "mods": ["IsRange"]}
+S0021979713004438-2004	1	Quantity	1145	1162	T1-2	38 MPa to 185 MPa	{"unit": "MPa", "mods": ["IsRange"]}
+S0021979713004438-2004	1	MeasuredEntity	1117	1124	T1-3	modulus	{"HasQuantity": "T1-2"}
+S0019103512003533-5300	0	Quantity	526	532	T0-0	10 keV	{"unit": "keV"}
+S0019103512003533-5300	0	MeasuredEntity	533	542	T0-1	particles	{"HasQuantity": "T0-0"}
+S0019103512003533-5300	1	Quantity	252	262	T1-2	100 mV m−1	{"unit": "mV m\u22121"}
+S0019103512003533-5300	1	MeasuredProperty	248	249	T1-3	E	{"HasQuantity": "T1-2"}
+S0019103512003533-5300	2	Quantity	281	296	T2-4	∼550 K to 850 K	{"unit": "K", "mods": ["IsApproximate"]}
+S0019103512003533-5300	2	MeasuredProperty	248	249	T2-5	E	{"HasQuantity": "T2-4"}
+S0019103512003533-5300	3	Quantity	526	542	T3-6	10 keV particles	{"unit": "s"}
+S0019103512003533-5300	3	MeasuredEntity	533	542	T3-7	particles	{"HasProperty": "T3-8"}
+S0019103512003533-5300	3	MeasuredProperty	509	522	T3-8	electron flux	{"HasQuantity": "T3-6"}
+S0019103512003533-5300	4	Quantity	220	237	T4-9	0.2 to 1.2 mW m−2	{"unit": "W m\u22122", "mods": ["IsRange"]}
+S0019103512003533-5300	4	MeasuredProperty	203	214	T4-10	energy flux	{"HasQuantity": "T4-9"}
+S0019103512003533-5300	5	Quantity	135	144	T5-11	80 mV m−1	{"unit": "mV m\u22121"}
+S0019103512003533-5300	6	Quantity	613	619	T6-12	500 eV	{"unit": "eV"}
+S0019103512003533-5300	6	MeasuredEntity	621	630	T6-13	electrons	{"HasQuantity": "T6-12"}
+S0378383911001669-1203	0	Quantity	518	524	T0-0	8.4 mm	{"unit": "mm"}
+S0378383911001669-1203	0	MeasuredEntity	525	543	T0-1	gravel-rough beach	{"HasQuantity": "T0-0"}
+S0378383911001669-1203	1	Quantity	476	483	T1-2	1.567 m	{"unit": "m"}
+S0378383911001669-1203	1	MeasuredProperty	472	473	T1-3	x	{"HasQuantity": "T1-2"}
+S0378383911001669-1203	2	Quantity	451	458	T2-4	0.772 m	{"unit": "m"}
+S0378383911001669-1203	2	MeasuredProperty	447	448	T2-5	x	{"HasQuantity": "T2-4"}
+S0378383911001669-1203	3	Quantity	395	401	T3-6	1.3 mm	{"unit": "mm"}
+S0378383911001669-1203	3	MeasuredEntity	402	418	T3-7	sand-rough beach	{"HasQuantity": "T3-6"}
+S0378383911001669-1203	4	Quantity	426	433	T4-8	0.072 m	{"unit": "m"}
+S0378383911001669-1203	4	MeasuredEntity	402	418	T4-9	sand-rough beach	{"HasProperty": "T4-10"}
+S0378383911001669-1203	4	MeasuredProperty	422	423	T4-10	x	{"HasQuantity": "T4-8"}
+S0012821X12004384-990	0	Quantity	220	223	T0-0	31%	{"unit": "%"}
+S0012821X12004384-990	0	MeasuredProperty	213	219	T0-1	axis 1	{"HasQuantity": "T0-0"}
+S0012821X12004384-990	0	MeasuredEntity	227	241	T0-2	total variance	{"HasProperty": "T0-1"}
+S0012821X12004384-990	1	Quantity	137	140	T1-3	17%	{"unit": "%"}
+S0012821X12004384-990	1	MeasuredProperty	130	136	T1-4	axis 2	{"HasQuantity": "T1-3"}
+S0012821X12004384-990	1	MeasuredEntity	144	158	T1-5	total variance	{"HasProperty": "T1-4"}
+S0012821X12004384-990	2	Quantity	107	110	T2-6	39%	{"unit": "%"}
+S0012821X12004384-990	2	MeasuredProperty	100	106	T2-7	axis 1	{"HasQuantity": "T2-6"}
+S0012821X12004384-990	2	MeasuredEntity	114	128	T2-8	total variance	{"HasProperty": "T2-7"}
+S0012821X12004384-990	3	Quantity	250	253	T3-9	11%	{"unit": "%"}
+S0012821X12004384-990	3	MeasuredProperty	243	249	T3-10	axis 2	{"HasQuantity": "T3-9"}
+S0012821X12004384-990	3	MeasuredEntity	257	271	T3-11	total variance	{"HasProperty": "T3-10"}
+S0012821X12004384-990	4	Quantity	552	575	T4-12	2619.60 m and 2614.71 m	{"unit": "m", "mods": ["IsList"]}
+S0012821X12004384-990	4	MeasuredEntity	541	548	T4-13	Samples	{"HasQuantity": "T4-12"}
+S0927024813002961-1085	0	Quantity	324	329	T0-0	25 °C	{"unit": "\u00b0C"}
+S0927024813002961-1085	0	MeasuredEntity	299	310	T0-1	cold module	{"HasQuantity": "T0-0"}
+S0927024813002961-1085	1	Quantity	353	362	T1-2	1000 W/m2	{"unit": "W/m2"}
+S0927024813002961-1085	1	MeasuredProperty	341	351	T1-3	irradiance	{"HasQuantity": "T1-2"}
+S0950705113001895-23682	0	Quantity	358	361	T0-0	six	{"mods": ["IsCount"]}
+S0950705113001895-23682	0	MeasuredEntity	362	371	T0-1	data sets	{"HasQuantity": "T0-0"}
+S0950705113001895-23682	1	Quantity	300	303	T1-2	two	{"mods": ["IsCount"]}
+S0950705113001895-23682	1	MeasuredEntity	362	371	T1-3	data sets	{"HasQuantity": "T1-2"}
+S0950705113001895-23682	2	Quantity	564	566	T2-4	5%	{"unit": "%"}
+S0950705113001895-23682	2	MeasuredEntity	537	551	T2-5	updating ratio	{"HasQuantity": "T2-4"}
+S0950705113001895-23682	3	Quantity	657	660	T3-6	two	{"mods": ["IsCount"]}
+S0950705113001895-23682	3	MeasuredEntity	661	671	T3-7	algorithms	{"HasQuantity": "T3-6"}
+S0950705113001895-23682	4	Quantity	787	790	T4-8	two	{"mods": ["IsCount"]}
+S0950705113001895-23682	4	MeasuredEntity	791	801	T4-9	algorithms	{"HasQuantity": "T4-8"}
+S1359645413009816-2227	0	Quantity	240	246	T0-0	7.3 mm	{"unit": "mm"}
+S1359645413009816-2227	0	MeasuredProperty	236	237	T0-1	r	{"HasQuantity": "T0-0"}
+S1359645413009816-2227	0	MeasuredEntity	190	197	T0-2	samples	{"HasProperty": "T0-1"}
+S1359645413009816-2227	1	Quantity	228	231	T1-3	9.3	{}
+S1359645413009816-2227	1	MeasuredProperty	215	220	T1-4	radii	{"HasQuantity": "T1-3"}
+S1359645413009816-2227	2	Quantity	185	189	T2-5	Four	{"mods": ["IsCount"]}
+S1359645413009816-2227	2	MeasuredEntity	190	197	T2-6	samples	{"HasQuantity": "T2-5"}
+S1359645413009816-2227	3	Quantity	49	54	T3-7	three	{"mods": ["IsCount"]}
+S1359645413009816-2227	3	MeasuredEntity	55	90	T3-8	different positions of the HPT disk	{"HasQuantity": "T3-7"}
+S1359645413009816-2227	4	Quantity	107	110	T4-9	Six	{"mods": ["IsCount"]}
+S1359645413009816-2227	4	MeasuredEntity	111	118	T4-10	samples	{"HasQuantity": "T4-9"}
+S1359645413009816-2227	5	Quantity	159	162	T5-11	9mm	{"unit": "mm"}
+S1359645413009816-2227	5	MeasuredEntity	111	118	T5-12	samples	{"HasProperty": "T5-13"}
+S1359645413009816-2227	5	MeasuredProperty	157	158	T5-13	r	{"HasQuantity": "T5-11"}
+S1359645413009816-2227	6	Quantity	26	28	T6-14	14	{"mods": ["IsCount"]}
+S1359645413009816-2227	6	MeasuredEntity	55	90	T6-15	different positions of the HPT disk	{"HasQuantity": "T6-14"}
+S1359645413009816-1712	0	Quantity	176	205	T0-0	range from 1.25 to 50 K min-1	{"unit": "from 1.25 to 50 K min-1", "mods": ["IsRange"]}
+S1359645413009816-1712	0	MeasuredEntity	143	168	T0-1	different heating rates δ	{"HasQuantity": "T0-0"}
+S1750583613004192-1126	0	Quantity	418	424	T0-0	200 km	{"unit": "km"}
+S1750583613004192-1126	0	MeasuredEntity	362	376	T0-1	saline aquifer	{"HasQuantity": "T0-0"}
+S1750583613004192-1126	1	Quantity	377	395	T1-3	approximately 1 km	{"unit": "km", "mods": ["IsApproximate"]}
+S1750583613004192-1126	1	MeasuredEntity	362	376	T1-4	saline aquifer	{"HasQuantity": "T1-3"}
+S1750583613004192-1126	2	Quantity	483	497	T2-6	almost 1 Mt/yr	{"unit": "1 Mt/yr", "mods": ["IsApproximate"]}
+S1750583613004192-1126	2	MeasuredEntity	501	513	T2-7	captured CO2	{"HasProperty": "T2-8"}
+S1750583613004192-1126	2	MeasuredProperty	474	482	T2-8	injected	{"HasQuantity": "T2-6"}
+S1750583613004192-1126	3	Quantity	536	546	T3-9	since 1996	{"unit": "1996", "mods": ["IsRange"]}
+S1750583613004192-1126	3	MeasuredEntity	501	513	T3-10	captured CO2	{"HasProperty": "T3-11"}
+S1750583613004192-1126	3	MeasuredProperty	474	482	T3-11	injected	{"HasQuantity": "T3-9"}
+S1750583613004192-1126	4	Quantity	595	600	T4-12	eight	{"mods": ["IsCount"]}
+S1750583613004192-1126	4	MeasuredProperty	601	605	T4-13	thin	{"HasQuantity": "T4-12"}
+S1750583613004192-1126	4	MeasuredEntity	606	620	T4-14	shale barriers	{"HasProperty": "T4-13"}
+S1750583613004192-1126	5	Quantity	665	686	T5-15	less than three years	{"unit": "years", "mods": ["IsRange"]}
+S1750583613004192-1126	5	MeasuredEntity	552	569	T5-16	buoyant CO2 plume	{"HasQuantity": "T5-15"}
+S1750583613004192-1126	6	Quantity	839	843	T6-17	nine	{"mods": ["IsCount"]}
+S1750583613004192-1126	6	MeasuredProperty	844	848	T6-18	thin	{"HasQuantity": "T6-17"}
+S1750583613004192-1126	6	MeasuredEntity	849	859	T6-19	CO2 layers	{"HasProperty": "T6-18"}
+S1750583613004192-1126	7	Quantity	731	736	T7-20	eight	{"mods": ["IsCount"]}
+S1750583613004192-1126	7	MeasuredEntity	737	752	T7-21	seismic surveys	{"HasQuantity": "T7-20"}
+S1750583613004192-1126	8	Quantity	1668	1686	T8-22	approximately 1 km	{"unit": "km", "mods": ["IsApproximate"]}
+S1750583613004192-1126	8	MeasuredEntity	1690	1693	T8-23	ice	{"HasQuantity": "T8-22"}
+S0927024813003036-1981	0	Quantity	318	324	T0-0	99.95%	{"unit": "%"}
+S0927024813003036-1981	0	MeasuredEntity	305	316	T0-1	iron pieces	{"HasProperty": "T0-2"}
+S0927024813003036-1981	0	MeasuredProperty	325	331	T0-2	purity	{"HasQuantity": "T0-0"}
+S0927024813003036-1981	1	Quantity	436	448	T1-3	up to 798 °C	{"unit": "\u00b0C", "mods": ["IsRange"]}
+S0927024813003036-1981	1	MeasuredEntity	401	419	T1-4	pre-heated furnace	{"HasProperty": "T1-5"}
+S0927024813003036-1981	1	MeasuredProperty	423	435	T1-5	temperatures	{"HasQuantity": "T1-3"}
+S0927024813003036-1981	2	Quantity	845	858	T2-6	below ∼100 °C	{"unit": "\u00b0C", "mods": ["IsApproximate"]}
+S0927024813003036-1981	2	MeasuredEntity	822	829	T2-7	samples	{"HasProperty": "T2-8"}
+S0927024813003036-1981	2	MeasuredProperty	835	841	T2-8	cooled	{"HasQuantity": "T2-6"}
+S0927024813003036-1981	3	Quantity	862	867	T3-9	<10 s	{"unit": "s", "mods": ["IsRange"]}
+S0927024813003036-1981	3	MeasuredEntity	822	829	T3-10	samples	{"HasProperty": "T3-11"}
+S0927024813003036-1981	3	MeasuredProperty	835	841	T3-11	cooled	{"HasQuantity": "T3-9"}
+S2213158213000582-1183	0	Quantity	112	118	T0-0	100 ms	{"unit": "ms"}
+S2213158213000582-1183	0	MeasuredProperty	119	138	T0-1	auditory amplitudes	{"HasQuantity": "T0-0"}
+S2213158213000582-1183	1	Quantity	404	420	T1-2	greater than 1 s	{"unit": "s", "mods": ["IsRange"]}
+S2213158213000582-1183	1	MeasuredEntity	380	403	T1-3	interstimulus intervals	{"HasQuantity": "T1-2"}
+S2213158213000582-1183	2	Quantity	306	312	T2-4	100 ms	{"unit": "ms"}
+S2213158213000582-1183	3	Quantity	754	757	T3-6	221	{"mods": ["IsCount"]}
+S2213158213000582-1183	3	MeasuredProperty	750	751	T3-7	N	{"HasQuantity": "T3-6"}
+S2213158213000582-1183	4	Quantity	729	732	T4-8	142	{"mods": ["IsCount"]}
+S2213158213000582-1183	4	MeasuredEntity	721	723	T4-9	SZ	{"HasProperty": "T4-10"}
+S2213158213000582-1183	4	MeasuredProperty	725	726	T4-10	N	{"HasQuantity": "T4-8"}
+S2213158213000582-1183	5	Quantity	1159	1161	T5-11	79	{"mods": ["IsCount"]}
+S2213158213000582-1183	5	MeasuredEntity	1151	1153	T5-12	SZ	{"HasProperty": "T5-13"}
+S2213158213000582-1183	5	MeasuredProperty	1155	1156	T5-13	N	{"HasQuantity": "T5-11"}
+S2213158213000582-1183	6	Quantity	1105	1111	T6-14	100 ms	{"unit": "ms"}
+S2213158213000582-1183	6	MeasuredEntity	1112	1130	T6-15	auditory processes	{"HasQuantity": "T6-14"}
+S2213158213000582-1183	7	Quantity	1175	1177	T7-16	73	{"mods": ["IsCount"]}
+S2213158213000582-1183	7	MeasuredProperty	1171	1172	T7-17	N	{"HasQuantity": "T7-16"}
+S2213158213000582-1183	7	MeasuredEntity	1167	1169	T7-18	HC	{"HasProperty": "T7-17"}
+S0032063313003218-7389	0	Quantity	206	209	T0-0	two	{"mods": ["IsCount"]}
+S0032063313003218-7389	0	MeasuredEntity	210	219	T0-1	scenarios	{"HasQuantity": "T0-0"}
+S0032063313003218-7389	1	Quantity	341	344	T1-2	3 h	{"unit": "h"}
+S0032063313003218-7389	1	MeasuredProperty	327	337	T1-3	time scale	{"HasQuantity": "T1-2"}
+S0167610513001001-1769	0	Quantity	96	101	T0-0	≈0.5°	{"unit": "\u00b0", "mods": ["IsApproximate"]}
+S0167610513001001-1769	0	MeasuredProperty	102	106	T0-1	tilt	{"HasQuantity": "T0-0"}
+S0167610513001001-1769	0	MeasuredEntity	114	119	T0-2	lidar	{"HasProperty": "T0-1"}
+S0167610513001001-1769	1	Quantity	211	222	T1-3	over 60 min	{"unit": "min", "mods": ["IsRange"]}
+S0167610513001001-1769	1	MeasuredEntity	174	196	T1-5	horizontal wind speeds	{"HasQuantity": "T1-3"}
+S0167610513001001-1769	2	Quantity	139	142	T2-6	two	{"mods": ["IsCount"]}
+S0167610513001001-1769	2	MeasuredEntity	143	154	T2-7	instruments	{"HasQuantity": "T2-6"}
+S0167610513001001-1769	3	Quantity	216	222	T3-8	60 min	{"unit": "min"}
+S0167610513001001-1769	3	MeasuredEntity	174	196	T3-9	horizontal wind speeds	{"HasQuantity": "T3-8"}
+S0167610513001001-1769	4	Quantity	289	292	T4-10	two	{"mods": ["IsCount"]}
+S0167610513001001-1769	4	MeasuredEntity	293	301	T4-11	datasets	{"HasQuantity": "T4-10"}
+S0167610513001001-1769	5	Quantity	371	383	T5-12	≈0–0.5 m s−1	{"unit": "m s\u22121", "mods": ["IsApproximate"]}
+S0167610513001001-1769	5	MeasuredEntity	357	361	T5-13	wind	{"HasProperty": "T5-14"}
+S0167610513001001-1769	5	MeasuredProperty	362	367	T5-14	speed	{"HasQuantity": "T5-12"}
+S0167610513001001-1769	6	Quantity	397	415	T6-15	less than 20 m s−1	{"unit": "m s\u22121", "mods": ["IsRange"]}
+S0167610513001001-1769	6	MeasuredProperty	387	393	T6-16	speeds	{"HasQuantity": "T6-15"}
+S0167610513001001-1769	7	Quantity	657	670	T7-17	to 1.05 m s−1	{"unit": "m s\u22121", "mods": ["IsRange"]}
+S0167610513001001-1769	7	MeasuredEntity	548	566	T7-18	lidar-derived wind	{"HasProperty": "T7-19"}
+S0167610513001001-1769	7	MeasuredProperty	535	540	T7-19	error	{"HasQuantity": "T7-17"}
+S0167610513001001-1769	8	Quantity	699	709	T8-20	0.86 m s−1	{"unit": "m s\u22121"}
+S0167610513001001-1769	8	MeasuredEntity	713	731	T8-21	neutral conditions	{"HasQuantity": "T8-20"}
+S0167610513001001-1769	9	Quantity	619	634	T9-22	from 0.36 m s−1	{"unit": "m s\u22121", "mods": ["IsRange"]}
+S0167610513001001-1769	9	MeasuredEntity	548	566	T9-23	lidar-derived wind	{"HasQuantity": "T9-22"}
+S0038071711004354-755	0	Quantity	162	180	T0-0	approximately −14‰	{"unit": "\u2030", "mods": ["IsApproximate"]}
+S0038071711004354-755	0	MeasuredEntity	148	160	T0-1	initial δ13C	{"HasQuantity": "T0-0"}
+S0038071711004354-755	1	Quantity	619	632	T1-2	−28.5 ± 0.33‰	{"unit": "\u2030", "mods": ["HasTolerance"]}
+S0038071711004354-755	1	MeasuredEntity	575	578	T1-3	CO2	{"HasProperty": "T1-4"}
+S0038071711004354-755	1	MeasuredProperty	579	589	T1-4	stabilised	{"HasQuantity": "T1-2"}
+S0038071711004354-755	2	Quantity	649	651	T2-5	60	{"mods": ["IsCount"]}
+S0038071711004354-755	2	MeasuredEntity	575	578	T2-6	CO2	{"HasProperty": "T2-7"}
+S0038071711004354-755	2	MeasuredProperty	645	646	T2-7	n	{"HasQuantity": "T2-5"}
+S0038071711004354-755	3	Quantity	596	615	T3-8	approximately 2.5 h	{"unit": "h", "mods": ["IsApproximate"]}
+S0038071711004354-755	3	MeasuredEntity	575	578	T3-9	CO2	{"HasProperty": "T3-10"}
+S0038071711004354-755	3	MeasuredProperty	579	589	T3-10	stabilised	{"HasQuantity": "T3-8"}
+S2213158213000582-1424	0	Quantity	1084	1089	T0-0	50 ms	{"unit": "ms"}
+S2213158213000582-1424	1	Quantity	1286	1292	T1-2	100 ms	{"unit": "ms"}
+S2213158213000582-1424	1	MeasuredProperty	1293	1331	T1-3	temporal and frontal auditory activity	{"HasQuantity": "T1-2"}
+S2213158213000582-1424	2	Quantity	1724	1730	T2-4	100 ms	{"unit": "ms"}
+S2213158213000582-1424	2	MeasuredProperty	1731	1748	T2-5	auditory activity	{"HasQuantity": "T2-4"}
+S0032386113005454-1245	0	Quantity	124	129	T0-0	20 °C	{"unit": "\u00b0C"}
+S0032386113005454-1245	0	MeasuredEntity	105	120	T0-1	S-CSR particles	{"HasQuantity": "T0-0"}
+S0032386113005454-1245	1	Quantity	79	85	T1-2	10 wt%	{"unit": "wt%"}
+S0032386113005454-1245	1	MeasuredEntity	46	60	T1-3	epoxy polymers	{"HasQuantity": "T1-2"}
+S0032386113005454-1245	2	Quantity	95	101	T2-4	20 wt%	{"unit": "wt%"}
+S0032386113005454-1245	2	MeasuredEntity	105	120	T2-5	S-CSR particles	{"HasQuantity": "T2-4"}
+S2213158213000582-766	0	Quantity	27	33	T0-0	100 ms	{"unit": "ms"}
+S0032063312003054-2458	0	Quantity	190	195	T0-0	43.0%	{"unit": "%"}
+S0032063312003054-2458	0	MeasuredEntity	199	209	T0-1	MEX orbits	{"HasQuantity": "T0-0"}
+S0032063312003054-2458	1	Quantity	303	307	T1-2	∼70%	{"unit": "%", "mods": ["IsApproximate"]}
+S0032063312003054-2458	1	MeasuredProperty	223	294	T1-3	signatures of unaccelerated electron precipitation from electron spikes	{"HasQuantity": "T1-2"}
+S0032063312003054-2458	1	MeasuredEntity	316	321	T1-4	total	{"HasProperty": "T1-3"}
+S0032063312003054-2458	2	Quantity	336	341	T2-5	29.8%	{"unit": "%"}
+S0032063312003054-2458	2	MeasuredProperty	223	294	T2-6	signatures of unaccelerated electron precipitation from electron spikes	{"HasQuantity": "T2-5"}
+S0032063312003054-2458	2	MeasuredEntity	345	355	T2-7	MEX orbits	{"HasProperty": "T2-6"}
+S0032063312003054-2458	3	Quantity	580	584	T3-8	3.4%	{"unit": "%"}
+S0032063312003054-2458	3	MeasuredEntity	588	598	T3-9	MEX orbits	{"HasQuantity": "T3-8"}
+S0032063312003054-2458	4	Quantity	572	575	T4-10	9.8	{}
+S0032063312003054-2458	4	MeasuredEntity	588	598	T4-11	MEX orbits	{"HasQuantity": "T4-10"}

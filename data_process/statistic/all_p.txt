@@ -1,0 +1,488 @@
+concentrations
+depth
+n
+concentration
+p
+temperature
+level
+odds ratios
+ratio
+thick
+Age- and sex-adjusted odds ratio
+P
+average percent variance explained
+distance
+latitude
+maximum temperature
+mean temperature
+old
+peaks
+period
+ratios
+survival
+taken
+temperatures
+time resolution of the instrument
+x
+CD34+CD45+ HPCs
+Cu
+Os abundances
+Scale bars
+aged
+density
+deposition velocity
+dissolved via wet alkaline digestion
+electron energy flux
+energy
+first flybys
+line-integrated transit depths
+long
+peak
+polar temperatures
+precision
+rate
+sensitivity
+shift
+specificity
+thin
+transit depths
+transition
+ηnet
+187Os/188Os
+CaCO3
+Colonisation
+G. mosseae plus G. intraradices combination
+Na
+NaOH
+Os abundance
+Percentage colonisation
+T0
+Vp
+after transplantation
+age
+auroral oval
+averaged power extracted
+before
+biofilm
+coherent clusters
+confocal-positive
+culture-positive
+cutoff level
+decreased
+diagnosed with permanent diabetes
+eGB
+exospheric temperatures
+extracts
+flue gas concentrations
+fractional integrated differential brightness of BS1
+frequencies
+from the LIP
+increase
+incubated
+level of Erk
+magnification
+mean (pressure averaged) temperature
+mean diameter
+migrated
+negative band
+observed ∣B∣ disturbances
+paleolatitude
+peak velocities
+percentage colonisation
+peripheral acceleration of heavy-ions
+pre-anneal
+pressure
+r2
+radius
+rates
+response
+rise
+score
+sensitivity and specificity
+slope
+speed
+step size
+stronger
+t(39)
+thickness
+time step of Δt
+used antidepressant medication
+values
+variability
+velocity
+visual field
+weigh
+wind speed
+wood/plant tissue
+ν3 vibration mode
+%low salinity dinoflagellate cysts
+0
+1
+1/e mixing depth
+10 year incidence rate
+12S rRNA levels
+16S
+2
+3
+30ε
+AFP-positive on D13
+ALB-positive on D20
+Age
+B
+C3O characteristic bands
+C60
+CD8+ killer T cells
+Cellulose and hemicellulose
+ClO4-
+CoNS
+Concentrations
+DC bias voltage
+DC voltage
+DEF
+DropTail
+Each slide was produced
+Eg
+F(1, 3.95)
+F(3, 8.9)
+Fluorescent dye
+Gd, Dy and U
+HNO3
+High latitude temperatures
+Hp
+Increase
+Incubation
+Intracellular PGRN levels
+Jsc
+K
+LSD
+Light microscope image
+MRPL3
+MRPS18B, MRPS25 and DAP3
+Mw
+Ṁ
+N
+Native perchlorate
+RED drops
+Rq value
+S
+SBET
+SO2 concentrations
+SO3
+SO4
+SO42-
+Seismic amplitude differences between the 38 °C and 34 °C scenarios
+Si2+
+Sn
+Sox17-positive on D5
+Substitution via cation exchange for Ca2+
+T
+TRA-1–60+
+Ti
+VPDB δ13Corg
+Vmeso
+Voc
+X0
+XUV flux
+absolute increase
+acceleration
+accumulated
+accumulated in the allografts
+accurate
+acidified
+aggregated illumination time
+also had CES-D depressive symptoms
+also had GHQ symptoms
+altitudes
+amorphous organic matter (AOM)
+apparent 30ε
+applied hydrostatic stress
+applied uniaxial stress
+assayed
+assumed surface velocity
+at temperatures
+auroral temperatures
+average of value
+average overall rate
+average solar XUV flux
+average sulfur content
+bad class
+base
+becomes finely laminated
+before the age
+began
+below the CTB
+beneath the Bonarelli
+biofilms have been identified on human middle ear mucosa
+boundary between open (region I) and closed field lines (region II)
+bulk iron concentrations
+category-4 still make up the second largest group and when added together with category-2
+cavitated
+changed
+characterised
+charged
+coexpresses CXCR4 and SOX17
+coherent cluster
+concurrent acceleration of heavy-ions
+confidence level
+constant photoelectron heating efficiency
+contact angle
+contains
+conventional unit deadlocked
+core depth
+corneal curvature settings
+counting time
+course
+cultured
+cultured in spinner flasks
+cultured on E8 feeder-free conditions
+current
+daily variations of polar temperatures
+decline
+declined
+decreases
+deep
+deepest point
+deposition rate
+deposition velocities
+developed such symptoms
+differences in the abundance
+differentiated
+dispersed
+dissociate
+dissociated
+distance between
+distances
+effective conjugation length
+effective porosities
+electron mobility
+elemental Hg was emitted in the exhaust gas
+emain mostly neutral
+emplacement of an ice volume
+energies
+energy inputs
+energy range
+error
+established
+examined activity
+expanded in static suspension culture
+expressed SOX2 protein
+expression of HLA-I during neural differentiation of human ESCs (hESCs) and iPSCs
+expression of MHC-I
+fall in
+fetal bovine serum
+fetal calf serum (FCS)
+first appeared
+fixed focal length
+flew close by the moon
+flown by Enceladus
+flown by Enceladus 14 times
+followed up
+found to carry the GFP-Neo cassette in the SOX2 locus
+fp
+fractions
+friction factors
+full period
+gas saturation
+gelatin-coated tissue culture plates in differentiation medium
+gene targeting rates
+generate teratomas
+gold/palladium
+good
+good/bad observations
+gradual fall
+grown as embryoid bodies (EBs) in suspension
+growth time
+gyroradius
+had such symptoms at follow-up
+hearing difficulties
+heating efficiencies
+heating rate
+history of behavioral changes and memory impairment
+horizontal size
+hydrostatic stress
+improve the usability
+improves
+incidence
+increased
+increased biomass yield
+increased net photosynthesis
+increases
+increment
+increments
+inferred temperatures
+initial water depth
+initial weight
+injected
+input of odd nitrogen
+internal cavity
+internal diameter
+interrupted
+involved
+ionic radius
+irradiance
+irradiance range
+isolated
+l-glutamine
+large plateau
+laser energy
+laser-pulse repetition rate
+lasted
+lasting
+levels in the subject sample
+line
+linear growth rate
+load factors
+located
+located at
+longitude
+loss
+loss rates
+lower boundary
+lower limit
+lowest value
+m/Δm∼3500
+maintained
+majority of oak regeneration
+mass channel number
+maxima
+maximum yield for the year
+mean age
+mean coefficient of variation
+mean standard deviation
+measured differential intensity
+minimum distance
+modulus
+mostly ionized
+mt-LSU protein ICT1
+n-frame deletion
+narrow variation in background values prior to OAE 2
+negative carbon isotope
+negative carbon isotope excursion
+net growth
+net heating efficiency
+nominal resolution
+nominal sediment diameters
+observable polar emission (region II/I boundary)
+observed abundance
+occurs
+odds ratio
+offset from
+one P
+onset
+open circuit potential
+orbit around Saturn
+oss rate
+output
+over
+p0
+paleodepths
+peaked
+penicillin G
+penicillin/streptomycin
+percentage of GFP-positive (GFP+) cells
+perchlorate
+perchlorate (ClO4-)
+peridinoid cysts
+period of time
+photocurrents
+points at an angle
+pore diameters
+positive shift
+post-annealed
+post-annealing
+power conversion efficiency
+present today on Antarctica
+prevalence
+probability
+processed
+produce the same backward slice as well as the same forward slice
+protein concentration
+pure
+pyruvate
+r
+radial velocity
+radius REnc
+rapid cooling to ambient temperature at a rate
+rate channel time resolution
+recruitment
+refrigerated
+regeneration densities
+reported to occur
+represented
+resonance
+rotates about the −y-axis of the spacecraft within
+rotation period
+rotation rate
+roughness
+sacrificed and perfusion-fixed
+scan time
+scored
+scores
+scoring
+self-pick up process has been shown to lead to
+sensitive
+sensitive to nitrate
+severely affected by their tinnitus
+should have crossed the central meridian
+shoulder
+showed progression of atrophy and gliosis
+side length
+siliceous walled autotrophs
+size
+size fractions
+sizes
+skew
+soil density
+soluble sulfate
+southern boundary
+specific
+specimen temperature
+speeds
+spinner flask
+stable tolerance
+started such medication
+steady state level of MRPL12 in the subject's fibroblasts
+stimulated (encouraged) by a certain set of soil variables
+storage in the dark
+streptomycin
+substantial injection
+survived
+survived and formed convex dish-shaped aggregates
+taken any medication
+taken place
+taller
+temperature peak
+temporal resolution
+tensile modulus
+thermospheric temperatures
+time
+time integration step
+time interval
+time-average volcanic flux
+took place
+toughened
+transmittance to visible light
+treatment
+upper limit
+used
+vacuum
+variation
+variation between the different site types
+vertical resolution
+visible light transmittance
+visual-field setting
+visually inspected
+volume averaged temperature
+voxels
+wavelengths
+weight
+were added
+were inhibited (discouraged)
+were refluxed for
+width
+with chronic tinnitus
+withdrawn
+withstand winter temperatures
+women
+δ13C
+ν1 vibration mode

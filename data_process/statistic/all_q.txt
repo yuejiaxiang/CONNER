@@ -1,0 +1,944 @@
+two
+10%
+three
+1.5 mm
+8.5 mm
+95%
+one
+3
+five
+1 μbar
+50%
+0–10 cm
+1.3 mm
+100%
+7
+80%
+< 0.01
+room temperature
+0 and 2000 ppm
+0.1
+1
+1%
+1.5–2.6 m
+10 min
+1000 ppm
+13 kg
+200 μm
+26
+3 mbar
+3 months
+30%
+34 °C
+38 °C
+4 weeks
+4.5 kg, 6 kg and 13 kg
+40%
+5%
+50 μm
+5Rp
+8.4 mm
+8250 K
+eight
+four
+zero
+0.072 m
+0.1%
+0.2 M
+1 g cm−3
+1 kg
+1 m
+1.0–1.7 wt.%
+1.67
+10 μM
+10 μm
+100 μm
+13%
+14 times
+1540 cm−1
+1:10
+2 months
+20
+20 wt%
+20 °C
+20–40 cm
+22%
+25%
+3.5–4 months
+30 nbar
+31%
+35%
+4.5 kg
+4.6%
+54
+60%
+60,268 km
+62 mm
+63%
+65
+65 years
+73%
+78°
+81%
+84%
+90–95%
+99.9%
+<0.1 ppm
+<1 ppm
+<2 ppm
+>250 μm
+Five
+above 2618 m
+around 40%
+at least one
+greater than 10%
+six
+up to 100%
+∼33.7 Ma
+∼−27‰
+≥16
+(0.28–0.42)×10-10m
+(0.39–0.41)×10-10m
+(563–624) ± 30 K
+(80/20
+(a) 1.3 (b) 2.4, and (c) 2.2 mg cm− 2
+(~7.85mWm−2
+)
++1%
+.05
+.20
+.64
+0 ppm, 1000 ppm and 2000 ppm
+0 to 1000 ppm
+0 to 4
+0%
+0% to 80%
+0, 1000 and 2000 ppm
+0.001
+0.01–0.03 Hz
+0.02
+0.02 cm s−1
+0.02%
+0.025 m.
+0.02°
+0.03
+0.0307
+0.047 AU
+0.05 g
+0.06
+0.06–0.07 mBar
+0.097 nm
+0.1 mg/L
+0.1 mg/ml
+0.1 to 1
+0.13
+0.13%
+0.18
+0.18 μm
+0.19–0.21 nm
+0.1°
+0.1–0.2 s−1
+0.2 μm
+0.22 ppm
+0.23 H
+0.24
+0.25
+0.296 μm
+0.2p0
+0.2–0.4 wt.%
+0.3 nbar
+0.4 scale heights
+0.4%
+0.42
+0.45 W m−2
+0.4–0.6 wt. %
+0.4–0.6 wt.%
+0.4‰
+0.5
+0.5 Hz
+0.51 ppm
+0.51–0.85 m.
+0.52 H
+0.563 m
+0.5–0.6 nJ
+0.63
+0.64 H
+0.64%
+0.66 s
+0.6‰
+0.725
+0.74 ppm
+0.80 H
+0.9
+0.92
+0.9mH
+0°
+0–40 cm
+1 (w/w)
+1 Hz
+1 h
+1 keV
+1 m s−1
+1 mg/L
+1 month
+1 or 0
+1 to 2 mg
+1 to 20 cm
+1 to 30 ppt
+1 to 600 ppt
+1 μs
+1% and 37%
+1, 5, 10, 20 and 50 μg/L
+1-bit
+1.0 kg
+1.00
+1.11–1.62
+1.14
+1.16
+1.167
+1.20 g/m3
+1.24
+1.26±0.2‰
+1.3 mm and 8.4 mm,
+1.3 wt.%
+1.3 ± 0.5 wt.%
+1.31
+1.34
+1.37
+1.4%–3.1%
+1.40
+1.4Rp (0.5 nbar) to 1.9Rp (0.1 nbar)
+1.5 mm and 8.5 mm
+1.5 mm and the 8.5 mm
+1.5 nm
+1.5‰
+1.66–4.88
+1.75
+1.8 cm
+1.85–2.48
+1.92–2.65
+1/
+1/10
+1/100
+1/100th
+1/20 (12 mA g− 1)–30C (7260 mA g− 1)
+1/e
+10
+10 mg/L
+10 passages
+10 ppq
+10 wt% and 20 wt%
+10 wt.%
+10 year
+10 μg/m
+10,000 K to 13,200 K
+10,000 U/ml
+10,000 μg/ml
+10,308 employees
+10,500×
+100 U/ml
+100 m
+100 mg/L
+100 ppt
+100 °C
+1000 K
+1000 K.
+1000 and 2000 ppm
+1000 discrete particles
+1000 m−2
+1000 times
+1000–2000 K
+100×
+1012 mbsl
+1031 cm−1
+104
+1065–1280 cm−1
+1083 nm
+1091 cm−1
+109–1010 kg s−1
+10RRh
+10°
+10–100%
+10–20 μm
+10–30%
+11 km s−1
+11%
+11,000 K
+11,500 K
+110 μg/ml
+111 MPa
+115%
+1180 and 1980 mm
+12 h
+12 hr
+12 kg
+12 mA g− 1
+12 min
+12 s
+12%
+12.1%
+12.4%
+120 m to 380 m
+1200 K
+125 nm
+125 μm
+126 km/h
+1260 cm−1
+12–20 μm
+13
+13 passages
+1300 K
+1300 K to 3500 K
+135 ppm
+14.1
+14.2%
+14.3%
+1423 cm−1
+147
+1485 cm−1
+15
+15 min
+15 or less
+15%
+150 °C
+1536 cm−1
+1550 cm−1
+15–27%
+16 times
+16.2%
+169%
+17.7 m
+170 ka
+18 cores
+180 m
+192 s
+1979
+1980
+1980 mm
+1981
+1985
+1985 to 1988
+1991
+1991 to 1993
+1997 to 1999
+1997, 2003, and 2008
+1999
+1:1
+1:3
+1RRh
+1Rs
+1–2 days
+2
+2 days
+2 hours
+2 m
+2 mM
+2 μm
+2%
+2-hour
+2-min
+2-year
+2.1%
+2.14
+2.25
+2.377 m
+2.5 years
+2.5–10 μm
+2.7 wt.%
+2.84
+20 cm
+20 eV
+20 items
+20 kV
+20 times
+20 × 20 degrees
+20%
+200 °C
+200 μL
+200,000
+2003 to 2004
+2005–2010
+2008 to 2009
+2010
+20–25 monomer units
+20–25%
+20–30 cm
+21
+210 MPa
+215–225 nm
+22
+225
+23.8%
+24 h
+24 hr
+24 m
+240 s
+25 days
+25 °C
+25 ± 0.02 °C
+25 μm
+25,000×
+25.4%
+250 kHz
+252 km
+26 October 2011
+26 horizons
+260 nm
+2609–2613 m
+2614.7 and 2619.6 m
+2619.60 and 2614.71
+2619.60, 2614.73, and 2614.71 m
+2619.60, 2617.35, 2617.44, 2614.73, and 2614.71 m
+27 days
+27 keV to 21 MeV
+274 Whitehall II participants
+274 elderly participants
+274 participants
+2780 mm
+289
+29.5°N
+297 nm
+298 K.
+2°
+2–10 μm
+2–3%
+2–3Rp
+2–3‰
+2–7%
+3 years
+3.00–3.05 ka
+3.19 ± 0.10 GPa
+3.2%
+3.4+0.1 cm2/Vs
+3.4Rp
+3.5–6.1 (×10−4) wt.%
+3.7 ± 0.9 fold per passage
+3.7 × 106 fold
+3.9%
+3.91 nm
+3.95 Saturn radii RS
+30
+30 degrees
+30 km s−1
+30 m
+30 mA
+30 min
+30 ppt
+30 vertices
+30-degrees
+30-item
+30.9 MW
+300±15 °C
+300–800 nm
+30–130 ms
+320–500 K
+33 m
+34 and 38 °C
+34 °C and 38 °C
+3413 women
+35
+35 m/s
+35 to 55
+350
+36 clones
+37
+37%
+3800 K
+3Rp
+3–4
+3–4 days
+4
+4 days
+4 nm
+4 s
+4 °C/min
+4.0 V
+4.0 × 10−10 wt. %
+4.1
+4.2 mm
+4.3 m
+4.3 × 10−8 wt. %
+4.5 kg and 13 kg
+4.5, 6 and 13 kg
+4.8 m
+4.8 months
+40 Hz
+40 min
+40.6 MW
+400 km
+407 ppm
+40°N
+420 ± 30 K
+42–48%
+43.22% ± 7.13%
+43.57% ± 4.35%
+430 K
+440 ± 50 K
+45 days
+45°
+46.8% ± 1.6%
+47.4%
+48
+48 h
+48 hr
+48.4 MW to 59.0 MW
+488 ± 14 K
+490 K
+4Rp
+4–7 kV
+4–8 years
+4‰
+5 K/min
+5 Mt
+5 g
+5 minutes
+5 mm per side
+5 or more
+5 s
+5% and 95%
+5-year
+5.16 m.
+5.4 mm
+5.4%
+5.65 s
+5.8%
+5.9 million
+50
+50 eV
+50 min
+50 mm
+50 μg
+50 μg/ml
+500
+500 nm × 500 nm
+51-bp
+52%
+52.1%
+530 participants
+5318 participants
+54 oN
+54 °N
+54.3%
+54.8 years
+55
+55 K.
+55%
+55.8 Ma
+55–74 year
+56
+56–100 keV
+57.1%
+57°44’8.47”N; 1°50’26.59”E
+58 to 70
+589.3 nm
+59.9%
+5–10
+5–10 s
+5–10 times
+5–13% per year
+5–40 nm range
+5–55 Hz
+5–6 days
+5–7 days
+5–8 °C
+5‰
+5≤2θ/°≤80
+6
+6 November 2011 UT
+6 and 13 kg
+6 kg
+6 kg over 4.5 kg
+6 kg to 13 kg
+6 months
+6 weeks
+6 × 106 kg s−1
+6.35 kg
+6.7%
+60 K
+60 or 63 mm
+60 × 10 × 3 mm3
+60 μm
+60% higher
+600 mm
+62 satellites
+63 MPa
+63 μm
+64-year
+64-year-
+650 K
+650–750 W/m2
+66.8 ppm
+67-year-
+67.9%
+6761
+68 – 70%
+689
+6895 men
+69 ± 3°
+6967
+6–8%
+7 month
+7 to 20%
+7.01
+7.2 km s−1
+7.2Rp
+7.5%
+7.5–80
+7.6%
+7.83 m s−1
+70 nm
+70 or highe
+700 W/m2
+7000 K
+71
+7100 K
+72%
+7200 K
+73
+74°S to 90°S
+75 g
+75%
+7538 SDG vertices
+764 km
+77.45°
+78%
+7870
+8 m
+8%
+8-year
+80 vol%
+8000 K
+82%
+82.9%
+82°
+84 days
+85
+85%
+85/15%
+86 s
+86 s, nominally
+86%
+864 s
+873 varves
+8815
+89%
+8–300
+9
+9 and 21
+9 ± 6%
+9.2%
+9.4
+9.9%
+9.9%–16.2%
+90 kW
+90%
+93%
+93.17%
+93.90±0.15 Ma
+93:7, v/v
+94.38%
+9438 lines of code
+95.81%
+96
+96.24%
+98%
+99.5%
+9th August 2008
+< .001
+< 0.001
+< 9 m
+<0.01 ppm
+<1 ppm by mass
+<10 cm
+<20  ms
+<200 nm
+<30%
+<−60‰
+> 0.5 cm3 g−1
+> 10 nm
+> 170 m2 g−1
+> 650 K
+> 99%
+>0.5 km
+>0.5 km)
+>100 μm
+>107kgs-1
+>30%
+>90%
+AD 1850
+After 8 days
+Approximately 5%
+December 16
+Four-year-old
+One
+One year
+Ten-day
+Two
+Two days
+Up to 20 m
+a few percent to around thirty percent
+about 210 MPa
+about 30 K/min
+about 40%
+about 5 km s−1
+about 70 MPa
+about 8.74Rs
+about 8250 K
+about 964 cm−1
+about −100 °C
+above 0.003 Hz
+above 10.5 m
+above 1000 °C
+above 3Rp
+above thirty percent
+above ∼500 K
+after 1 month
+after 13 passages
+after 2-4 weeks
+after 200 days
+after 3–4 weeks
+after 48 h
+almost 70%
+almost 90%
+approximately 0.1 mg/l
+approximately 1 cm
+approximately 1 mm
+approximately 11.8 m
+approximately 13 pairs per mm
+approximately 19 m
+approximately 2 h
+approximately 20 μg/ml
+approximately 220 m
+approximately 29 ± 0.9%
+approximately 50%
+approximately 54%
+approximately 60 eV.
+approximately 6000 K
+approximately 7100 K
+approximately 78 ± 0.6%
+approximately 80%
+approximately 88 ± 1.1%
+approximately 95%
+approximately every 5 years
+around 0.5 ms
+around 10%
+around 100 km
+around 1300 m s−1
+around 180 K
+around 450 K
+around six orders of magnitude
+as low as 25 km
+as much as 80%
+at least 10%
+at least 3 passages
+at least 5 hours
+average 3–4 nT
+average ∼6.8 wt.%
+before (103 yrs)
+before 1200 °C
+before 6 months
+before 9 months
+before the age of 20 years
+below 3.5Rp
+below around 1000 km
+below ∼460 K
+better than 5%
+between 0 and 0.5 m s−1
+between 0 and 60
+between 05:28 UT and 05:47 UT
+between 100 and 200 ms
+between 11.8 m and 11.5 m
+between 1947 and 1999
+between 2 and 20 μm
+between 20 and 60 g
+between 200 and >1000 m
+between 2005 and 2010
+between 5 and 300 K
+between 50 and 100
+between 6% and 13%
+between 60% and 100%
+between 8000 and 9000 K
+between about 20 keV and several tens of MeV
+between −2 and −7‰
+between ∼01:25:00 UT and 01:25:40 UT
+ca. 0.4–1.0 nm
+circa July 2002
+close to 10 ppm
+down to −18 °C
+eight-second
+eight-year
+first
+for 6 years
+four and a half
+four point
+from 0.1 to 1
+from 0.25 Mbps to 0.01 Mbps
+from 10 ms to 0.1 ms
+from 10% to 100%
+from 103 yrs
+from 211 K to 284 K
+from 2605 m to 2634 m
+from 2632 to 2618 m
+from 4 m
+from 50% to around 80%
+from 78% to 95%
+from ∼20 ppm to ∼180 ppm
+from ∼20 to 40 ppm
+from ∼200 to 400 ppm
+from ∼250 to ∼550 ppm
+from ∼50 ppm to ∼150 ppm
+greater than 0.1 g/L
+greater than 0.1 ppm
+greater than 1000 stems/ha
+greater than 20 m s−1
+greater than 70%
+in the order of 100 m
+increases from 2.6 km s−1 to 25 km s−1
+last 200 years
+last 3 byr
+less than 1%
+less than 2%
+less than 2.5 μm
+less than 5 m/s
+less than 5%
+less than 6 K
+less than 85%
+less than one day
+less than ∼10 times
+low as 800 °C
+mean and 2SD of 1.23±0.25‰
+million-year
+more than 10 passages
+more than 24 h
+more than 85%
+more than 90%
+n.s.
+near 1 μbar
+near 1.4Rp
+near 1.5Rp
+nine
+none
+of the order of 450 K
+on average 5%
+one week
+one-day
+over 3 byr
+over 4 weeks
+over 48 years
+over <20 ka
+over a 120 day
+over a 60 day
+over a 7-month
+over more than 20 passages.
+over the 9-year
+pH 7–8
+pH∼2
+past 14 days
+range 1013 cm−3 to 1016 cm−3
+range 66% to 88%
+range from 11.4% to 2.4%
+range from 4 to 88 days
+range from 5° to 85°
+range of 10–15%
+range of 2–4 kV
+range of 34–38 °C
+ranging from 1 to 25 per mm
+roughly 2%
+seven
+several hundred or even more than a thousand years
+since July 2004
+six to eight
+sixteen times
+three metre
+three occasions
+to 1.96 ± 0.08 GPa
+top 10 cm
+top few tens of centimeters
+twenty
+twice
+two beach materials
+two days
+two years
+up to 1 week
+up to 11.25 Mg ha−1 year−1
+up to 25%
+up to 40%
+up to around 650 K
+up to at least 3Rp
+upper 0.8 m
+upto 1200 °C
+within 100 m
+within 12 weeks
+within 24 h
+within 72 hours
+within <0.5 m
+within a month and a half
+~ 30%
+~ 60–80%
+~10%
+~1500–2000 g mol−1
+~15kR
+~1kR
+~74° latitude
+~79kR
+~8.8mWm−2
+~80°
+~88kR
+±10 min
+±12 m.
+±5%
+±70 m/s
+±<0.1
+−0.43 ± 0.05 percentage points per year
+−0.72 V
+−1.6 ± 0.2%
+−100 °C to 200 °C
+−109 °C
+−27.2 to −23.1‰
+−4°C
+−8 °C
+∼ 16
+∼0.4 mm2
+∼0.40–0.45 V
+∼0.5 wt.%
+∼0.5–5 Å/s
+∼0.8
+∼1.5–3 Å/s
+∼1000 K
+∼10eV
+∼10–11 days
+∼12 m
+∼12.6 m
+∼15 ppm
+∼1600 m s−1
+∼1:1000
+∼1:60
+∼1×10−5 Torr
+∼2 Ma
+∼2 m
+∼2 m.
+∼2%
+∼20 m
+∼2–3 mA/cm2
+∼30°N
+∼31.5 Ma
+∼35%
+∼4.4 wt.%
+∼400 ka
+∼400eV.
+∼5%
+∼5.7 s
+∼50
+∼56 Ma
+∼70%
+∼–1‰
+∼−1‰
+∼−25.9 to −26.5‰.
+≈ − 10 mdeg
+≈2.0 eV
+≤1.5×1012 cm−3
+≥11.1 mmol/L
+≥7.0 mmol/L
+≳ 10−4
+⩽ 650 K
+⩽1.6%

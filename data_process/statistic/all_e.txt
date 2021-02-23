@@ -1,0 +1,761 @@
+beach
+samples
+soil
+cells
+SO2
+Saturn
+C2 model
+in situ ATR-FTIR spectra
+DMEM medium
+bed inventory
+sorbent
+H50 model
+M7 model
+adults
+cycles
+devices
+wind
+3DAP observation conditions
+C1 model
+CI
+Samples
+beaches
+bed inventories
+cohort
+electrons
+four point scale
+functions
+heavy-ions
+models predict
+scale bars
+simulations in this study
+upper atmosphere
+water
+BC1 cells
+CIE onset
+CO2
+Cassini spacecraft
+Children
+Enceladus
+FeCl3
+H/H+
+Initial scans
+MEX orbits
+Oi1
+PTh
+Rhea
+S-CSR particles
+Ti
+W
+Zn
+all species
+animals
+case EF
+characteristic positive excursion in δ13Corg
+clones
+control
+cycle
+dried sediment
+epoxy
+events of electron precipitation signatures
+global soil
+hash function
+inserting ratio
+mesopore domains
+molecular dynamics simulations on Ni
+nitric acid
+plate
+scale bar
+sediments
+simulation time
+size fractions
+solid sorbent
+spectrum of HA nanopowder
+thermosphere below 3Rp
+unmodified epoxy polymer
+x
+13 passages
+147 patients from consanguineous pedigrees
+5318 participants
+AALD ZnO film
+AALD ZnO layers
+BC1
+BHJ
+C3 model
+CD45+ cells
+CHD
+CHD risk score-incident CHD association
+CO2 saturation
+CVD
+DC Power Supply
+DMA
+Dulbecco's modified Eagle's medium
+GHQ
+GHQ caseness
+GHQ symptom caseness
+H filter
+H-band slit-viewing VLT images
+HD209458
+JONSWAP spectrum
+LEO 1525 field emission scanning electron microscope
+Lyman α emissions
+MC09 model
+MMA
+Mars soil
+No significant difference in regeneration densities
+PTh and C60 deposition
+Pearson correlation at phase 7
+SOC
+SOC stock
+SOC stocks
+Saturn’s upper atmosphere
+Serum for lipid analyses
+TNC1
+Tb
+Whitehall II study
+a given pointing/pitch angle
+basalt
+basalts
+bentonite units
+case
+case ES
+case ES with EF
+cases
+cells of all three germ layers
+classifiers
+code
+collected particles
+control value
+control values
+cores
+data cycles
+debonding
+depressive symptoms
+detectors
+device
+distinct layer of clastic sediment
+ear
+elements
+evaporation
+exospheric temperature
+exospheric temperatures
+experiment
+flute instability
+fraction
+gradiometer data
+gradiometer data using VESTAL
+heating efficiency
+hot layer of H
+human RPE cell
+inflow condition
+injection
+integrations
+levels of colonisation
+magnetometer data
+magnetometer data using VESTAL
+mass
+mean saturation for the plume
+microscopy samples
+model
+modelling
+months
+mycorrhizal growth
+node
+one cycle
+option
+packets
+perchlorate:nitrate
+performance variations
+period of solar rotation
+phase 3
+phase 5
+phase 7
+phase 9
+planar heterojunction devices
+positive correlation
+priority channels
+rest of the clusters
+scenario
+scenarios
+seawater
+sediment
+seeds
+soil profile
+soils
+solstice simulation (R19)
+solution
+square plate
+stoichiometric molar
+stroke risk score-incident stroke association
+strong westward (sub-corotating) winds
+structured psychiatric interview
+target population
+temperature profile
+the Cassini spacecraft
+the questionnaire measures
+three e-folding depths
+time period
+total number of CFUs
+transits
+two-dimensional square system
+upland sites
+upper Hartland Shale
+upper boundary
+validation study
+δ30Si values of size fractions between 2 and 20 μm
+ηnet
+(A)–(H)
+(C)–(F)
+(J)–(M) and (Q)
+10% increase in the Framingham CVD risk score
+1RS
+1Rs
+2-hour postload glucose
+200,000 seeds
+2θ
+3DAP observation
+5.9 million seeds
+530 participants
+55–74 year olds
+9438 lines of code
+>250 μm fractions
+ALB secretion
+AM fungal inoculum as a single factor
+ANOVA
+AR comparison
+Aggregate turnover
+Amazonian eon
+Animals
+Argon
+BC1 and TNC1 hiPSCs
+BC1 cells cultured in E8 medium
+Borehole 22/10a-4
+Bridge Creek Limestone
+C60
+CBF/DREB genes
+CES-D
+CTB
+Ca(ClO4)2
+Ca/P
+CaP
+CdS/starch
+Center for Epidemiologic Studies Depression Scale
+Cl
+Cleaned sponge
+Cleaned sponge and diatom opal
+Cranial MRI performed
+DA1
+Data
+Depressive Symptoms
+Depth time-series and depth-averaged bed-parallel velocity time-series
+Dinoflagellate cyst assemblage 1 (DA1
+ELS spectrogram
+Enhanced halocline stratification and terrigenous input
+Eucalyptus gunnii
+FTD patients
+Fe
+Fisher's exact test
+Flow cytometry plots
+Framingham CVD risk score
+Framingham Risk Scores
+G. geosporum
+G. intraradices
+G. mosseae
+G. mosseae and G. intraradices
+G140M observations
+GFP+ cells
+GFP+ fibers showed extensive projections into the host brain
+GH plasma levels
+GHQ-symptom cases
+General Health Questionnaire (GHQ)
+H Lyman α transit depth
+H and O
+H-bonding
+HA decomposition
+HCl
+HD209458b
+Hartland Shale
+He
+Histological analysis
+Hybrid aspen (P. tremula × P. tremuloides) over-expressing GID1
+Intermediate depth silicic acid concentration
+LIP basalts
+Laminae
+Left images
+Livello Bonarelli
+MMNm component
+MRI scans
+MSG
+Magnetic resonance images of a representative animal
+Mediterranean forest sites in Italy
+Mefp-1 spectrum
+Mg(ClO4)2
+Model C1
+N
+Na D
+NaOH
+Neurons
+Neurospheres
+North Atlantic igneous province (NAIP), the Kilda Basin, and the northern rain belt
+O2, H2, and CO
+OTUs
+OTUs in healthy soils
+Os contribution
+Os input
+P
+PEO and pigmentary retinopathy
+PETM
+PLGA–HA
+PVC tubes
+Paleocene–Eocene boundary section
+Paleocene–Eocene thermal maximum (PETM
+Pioneer 11
+Pont d'Issole section
+Rb
+Rb, Nb and W
+Refined crystallographic parameters for (1) from PXD and PND
+Replicate analysis
+S-CSR particle-modified polymers
+S-CSR-modified epoxy polymer
+S-CSR-modified epoxy polymers
+S. lugdunensis
+SOL2 model
+SOX2
+Saturn rotations
+Saturn’s auroral oval
+Scale bar
+Scale bars
+Scherrer equation
+Si
+Sintering of pure HA particles
+Sleipner plume
+Sleipner plume profile
+Solar EUV heating
+Soluble sulfate
+Spectralis
+Spectralis’
+Teratoma formation
+Time-series of model-predicted (solid lines) and experimentally-measured (dashed lines) hydraulic head
+Tropical E. grandis × E. urophylla expressing a stress-inducible rd29a promoter-CBF2 transcription factor cassette
+UH
+VESTAL analyses
+VPDB δ13Corg
+Values of control line 20
+Values shaded
+Venous blood
+Viking 1 and Viking 2 landing sites
+Vocontian Basin
+Voyager 1
+Voyager 2
+Wells
+ZnO films
+[H+]/[H]
+acid
+adsorption of Mefp-1
+adults aged over 48 years
+age-matched subject
+aggregate stability
+aggregate water repellency
+aggregates
+allograft
+alloy
+alternately pale and dark laminae couplets
+altitude
+amplitude values of the baseline
+amylose helix
+anhydrous MgF2
+annual degradation
+annual energy prediction
+antidepressant medication
+arrow
+atmosphere
+auroral oval
+azeotropic mixture of dichloromethane and methanol
+bacteria
+bacteria isolated from OME
+bandpass filter
+baseline examination
+basin
+beach materials
+beetle species
+bins
+bulk rock samples
+c(ξc)
+cal BP Alpehué Pumice (So-A) eruption
+case studies
+cases of GHQ symptoms
+cavities
+cell lysate
+central part of the basin
+central parts of the northern North Sea
+cerebrospinal fluid (CSF)
+change in SOC stock
+channel sandstones
+channels of LEMMS
+charged ions
+children with OME and/or recurrent AOM
+circular orbit
+civil service departments
+classes
+clay mineral
+clear “inverted-V” structure
+close-up flashes
+closed crustal magnetic field line
+cluster
+clusters
+co-deposition of blended mixtures
+coals
+coherent cluster
+coherent clusters
+collisions with neutral H dominate the transport of heavy neutral atoms
+combination of all three species
+commonest pathogens
+compressive true yield stress
+concentrated HNO3
+confidence interval [CI]
+confidence intervals
+constant evaporation rate
+control lines
+core
+cores of sediment
+cortical gray-matter regions
+cross-sectional sample
+cubic source grid
+current investigation
+data
+data set
+deciduous forest
+decline
+decomposition of HA
+deeper BS2 feature
+deficient HA start their decomposition at temperatures lower than pure HA
+defined as having CES-D depressive symptoms
+depressive symptoms defined by CES-D
+diatom opal
+diatom silicon isotope fractionation factor
+diatom δ30Si
+diatoms
+difference
+different coals
+different devices
+different simulations
+differential brightness of BS1 in the H filter
+differentiation medium
+diffractometer
+discovery image
+distorted ∨ shapes
+divalent cation Cd2+
+dominant frequency
+double-blind clinical trials
+double-cantilever mode
+drives
+e-folding depths
+ears
+effect of initial C concentration
+effects
+electron
+electron mixing ratio of xe
+elemental Hg
+elevated depressive symptoms
+empirical model of K10
+endogenous cold-binding factor/drought responsive element binding (CBF/DREB)1-like genes
+enhanced ULF wave activity in the lunar
+epoxy polymer
+error bars
+exceptions
+expanded and screened by Southern blotting for homologous recombination events
+experiments
+external diatomite standard
+farm
+fasting glucose
+features
+film
+films
+final standard concentrations
+finite-element analysis simulations
+flashes of light
+flue gas
+follow-up examinations
+follow-up screenings
+formic acid
+free-air enrichment by supplementary CO2 in field plots
+front factor
+fuels
+functional evaluations
+gas
+gas saturation
+gaseous major element
+gate midpoint
+general population
+glucose oxidase method
+glucose solution
+gradient evaluations
+groundwater
+hRPE monolayers
+hSOX2-23
+halocline stratification and terrigenous deposition
+heating rate
+hematite surface
+hiPSC lines
+hiPSCs
+high porosity sandstone layers
+human RPE
+human peripheral blood cells in both hESCs and iPSCs
+hydrochloric acid
+hydrogen peroxide
+iPSC colonies
+ice volume
+immunofluorescence study conducted
+impactors have churned the soil on Mars
+in vivo fiber outgrowth
+increase
+increased onset of depressive symptoms
+independent cultures
+indicators (or proxy measures)
+individual events
+initial layout
+initial orientations
+injection level
+injection level range
+injection point (IP)
+input of odd nitrogen
+inset
+instruments
+intravitreal triamcinolone (TCA) injection
+inventories
+inventory
+isokinetic sucrose gradients
+isothermal sonic point
+iterations
+lakes
+laminin
+largest
+largest clusters of acct
+lead pollution horizon
+lens
+level
+lifetime measurements
+limestone
+limit of present HST detectability
+location
+low and mid-latitude exospheric temperatures
+low-energy telescope
+lower boundar
+lower soil depths
+lowest bed inventory
+lowest locations on the beach
+main contributors
+major trends
+manufactured dice
+marine and terrestrial sediments
+marine cores
+marine hydrates containing biogenic methane
+martian meteorite EETA79001
+mass spectrometer
+maximum ion count
+mean atomic weight2
+mean temperature
+measurement locations
+measures
+measuring cell
+microglia derived from control, sporadic, and PGRN S116X iPSCs
+minor element
+model also predicts
+models
+modern terrestrial volcanic flux
+molecules
+more recent validation
+movable turntable
+mt-tRNAPhe
+mutant gene
+mycorrhizal growth response
+native tree species
+native woody tree species
+ncidence rate
+negative carbon isotope excursion (CIE)
+new venous blood samples
+ninth layer
+no significant differences
+noncases
+normalized root mean square (NRMS) differences
+northern rain belt
+number
+numerous centimetre scale organic-rich shale layers
+nutrient sufficiency recommendation system
+objective atherosclerosis measures
+observation
+observed
+older adults
+one P = 12 h sinusoidal period
+open source calculator bc
+optimised farm layout
+organic fertilisers
+other patient
+outward radial velocity
+overlapping cores
+oxy-combustion pilot plant
+p
+p0
+package of black organic-rich calcareous shales, termed the “Niveau Thomel”
+palynology samples
+parameter a
+participants
+participants with CES-D depressive symptoms
+participants with GHQ symptoms,
+participants without GHQ symptoms
+particles
+passages
+patient
+patients
+peak
+perchlorate
+perchlorate-sensitive electrode
+perchloric acid
+performance
+petrophysical experiments
+photons
+planet’s mass
+plume layers
+polarized human RPE
+poly-D-lysine
+population
+postload glucose
+power
+precipitation signatures
+precipitation signatures occurring on ∼5% of MEX orbits
+precision of previous slice
+primary production
+processed
+production programs
+program's SDG vertices
+program's vertices
+proteins of the small ribosomal subunit (SSU)
+pulses
+pure HA (ratio CaP=1.67) is stable in an air and argon atmosphere
+pure PLGA spectrum
+pure ethanol
+rate channels
+real age
+region of maximum electron precipitation
+regions
+replicate analyses
+reservoir
+reservoir temperature
+response categories
+rest
+resulting DE population
+right micrographs
+risk
+risk score
+room temperature
+rosettes
+rougher beach
+sample
+samples 1 and 2
+sand-rough beach
+satellite observations
+saturations
+scale
+scan
+scanned area
+screening cycles
+sea surface temperatures
+second lifetime measurement
+section of 22/10a-4
+section of the Bridge Creek Limestone (∼12 m) and Hartland Shale (∼12.6 m)
+sedimentation
+seed source
+seismic velocity in sandstones saturated with brine does not depend on
+series
+serum
+serum level of IFN-γ increased
+serum level of IFN-γ temporarily increased
+sets of cases
+sieve
+significance level
+significant variation
+significant variation in total regeneration densities
+significantly greater
+silicon
+single photon
+small pores
+soil test values
+solar average on HD209458b
+solar cycles
+solar rotation
+solid state CD spectrum of GMP
+some of the samples
+source files
+specimens
+spectrum of complex 1
+spicules
+sponge δ30Si
+standard-sample brackets
+static suspension
+stellar XUV flux, or the corresponding alternative heat source
+stellar flux
+step
+stock solutions
+strong negative CE
+study
+sub-cortical regions
+sub-solar point
+subgroup
+subgroup of 274 participants
+surface temperature
+survey
+surviving GFP+ cells
+synthesised CdS nanoparticles
+temperature
+temperature range
+terrestrial volcanic gas flux
+test specimens
+testes of a severe combined immunodeficiency (SCID) mouse
+the claystone
+the summer polar region
+thermally distilled HCl
+thermosphere of HD209458b
+third scenario
+those not on antidepressant treatment
+those with CES-D depressive symptoms
+those without CES-D depressive symptoms
+threshold
+tidal period
+tidal range
+times that a glitch appear
+timescale
+total material processed
+total observed variation
+total score
+trace element
+trace elements
+transmission spectrum of HD209458b
+turbidite sandstones
+two FTD patients
+two beaches
+two-species mixture of G. geosporum plus G. mosseae
+typical gas giant (hereafter, the H50 model)
+uncertainty
+undifferentiated hiPSCs
+untreated monkey peripheral blood cells
+upper part
+upstream velocity
+values
+vertical slab of relatively undisturbed sediment
+very large dominant coherent cluster
+water column
+wet alkaline digestion
+wild-type cottonwood
+wild-type trees
+wind farms in the UK
+wires
+wires per channel
+wood
+yield records
+z
+δ13C-depleted carbon
+δ13Corg
+δ13Corg record
+θ
+“uncontaminated” samples
+∣B∣

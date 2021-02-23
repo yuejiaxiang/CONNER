@@ -1,0 +1,166 @@
+%
+m
+K
+ppm
+mm
+°C
+μm
+kg
+nm
+days
+‰
+Rp
+°
+cm
+years
+s
+wt.%
+year
+months
+cm−1
+min
+km
+h
+weeks
+Ma
+Hz
+eV
+m s−1
+passages
+times
+μbar
+MPa
+day
+km s−1
+month
+ms
+H
+g
+kR
+ka
+mg/L
+ppt
+°N
+μg/ml
+MW
+UT
+V
+hours
+hr
+kV
+m/s
+mbar
+nbar
+participants
+wt. %
+×
+GPa
+K/min
+M
+RRh
+Rs
+U/ml
+W/m2
+byr
+cm−3
+degrees
+g cm−3
+keV
+kg s−1
+mA g− 1
+mWm−2
+mmol/L
+pH
+percent
+s−1
+week
+wt%
+yrs
+Å/s
+μM
+% per year
+AU
+Mbps
+MeV
+Mg ha−1 year−1
+Mt
+SDG vertices
+Saturn radii RS
+Torr
+W m−2
+Whitehall II participants
+beach materials
+bit
+bp
+centimeters
+clones
+cm2/Vs
+cm3 g−1
+cores
+discrete particles
+elderly participants
+employees
+fold
+fold per passage
+g mol−1
+g/L
+g/m3
+horizons
+hour
+item
+items
+kHz
+kW
+kgs-1
+km/h
+lines of code
+m thick
+m2 g−1
+mA
+mA/cm2
+mBar
+mH
+mM
+mbsl
+mdeg
+men
+metre
+mg
+mg cm− 2
+mg/l
+mg/ml
+minutes
+mm per side
+mm2
+mm3
+monomer units
+m−2
+nJ
+nT
+oN
+occasions
+orders of magnitude
+p0
+pairs per mm
+percentage points per year
+point
+ppm by mass
+ppq
+scale heights
+second
+stems/ha
+v/v
+varves
+vertices
+vol%
+w/w
+women
+year-old
+° latitude
+°C/min
+°S
+μL
+μg
+μg/L
+μg/m
+μs
